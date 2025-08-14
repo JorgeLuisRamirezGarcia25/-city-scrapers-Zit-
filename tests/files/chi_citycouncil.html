@@ -1,0 +1,1229 @@
+<!DOCTYPE html>
+<html lang="en-US" data-lang="en-US" crm-lang="en-US" dir="ltr" crm-lcid="1033"
+	same-site-mode="None">
+<head>
+		
+		<meta charset="utf-8" /><meta name="viewport" content="width=device-width,&#32;initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<script type="text/javascript" >
+				
+		</script>
+	<title>
+	
+		Meetings
+		- Office of the City Clerk
+</title>
+		
+		<script src="/_resources/getresourcemanager?lang=en-US"></script>
+	
+	<script type="text/javascript">
+		// Refresh all powerBI Iframes on Login in one Iframe
+		window.addEventListener('message', function (event) {
+			if (event && event.data && event.data == 'refreshPowerBI') {
+				$("iframe.powerbi").each(function () {
+					this.src = this.src;
+				});
+			}
+		});
+
+		// Fix for incorrect viewport width setting in IE 10 on Windows Phone 8.
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(document.createTextNode("@-ms-viewport{width:auto!important}"));
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+	</script>
+		
+	
+		
+		<link href="/bootstrap.min.css?1686424534000" rel="stylesheet" />
+
+		<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/font-awesome.bundle-3d8a58a48f.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/font-awesome.bundle-3d8a58a48f.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+				<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/preform.bundle-739eaba11a.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/preform.bundle-739eaba11a.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+
+		
+		<!--[if lt IE 9]>
+				<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<![endif]-->
+		
+		<!--[if lt IE 10]>
+				<script src="~/js/formdata.js"></script>
+			<![endif]-->
+		
+			
+		
+		<link href="/thumbnail.css?1692119716000" rel="stylesheet" />
+<link href="/theme.css?1686424533000" rel="stylesheet" />
+<link href="/clerk.css?1694725908000" rel="stylesheet" />
+<link href="/portalbasictheme.css?1686424533000" rel="stylesheet" />
+
+		<style type="text/css">#calendar-container {
+    height: 800px;
+    /* Adjust the height as needed */
+}
+
+.meetings-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #DCE4EF;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.form-content {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.inputs-group {
+    max-height: fit-content;
+    display: flex;
+    flex-direction: row;
+    gap: calc(1rem/2);
+    width: 60%;
+    height: 46px;
+}
+
+@media (max-width: 1024px) {
+    .inputs-group {
+        width: 90%;
+    }
+
+    .content-header {
+        flex-direction: column-reverse
+    }
+
+    .meetings-tabs-header, .social-sharing {
+        width: 100%;
+        
+    }
+}
+
+.inputs-group  .form-control.search-input {
+    width: 100%;
+    border-radius: 4px;
+    height: auto;
+}
+
+input {
+    color: #112E51 !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+}
+
+input::placeholder {
+    color: #aaa !important;
+    font-weight: normal !important;
+}
+
+.meetings-button {
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+
+.search-button {
+    width: 30%;
+    background-color: #1976E1;
+}
+
+.reset-button {
+    width: 22%;
+    background-color: #3399ff;
+    border: 1px solid #ccc;
+}
+
+.inputs-group .search-select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 50%;
+    /*-webkit-appearance: none;*/
+}
+
+.nav-tabs {
+    border-bottom: none !important;
+}
+
+.nav-tabs>li>a {
+    color: #777 !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-left: 1px solid #DCE4EF !important;
+    margin: 0 !important;;
+}
+
+.nav-tabs>li.active>a {
+    border-bottom: 3px solid #1976E1 !important;
+    color: #1976E1 !important;
+}
+
+.nav-tabs>li:first-child>a  {
+    border-left: none !important;
+}
+
+.grid {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.grid th, .grid td {
+    padding: 0;
+}
+
+.fc-button-primary {
+    background-color: rgb(51, 157, 97) !important;
+    border: none !important;
+}
+.fc-button-active {
+    background-color: #2a8552 !important;
+}
+
+.fc-button-primary:focus {
+    border: none !important;
+}
+
+.fc-toolbar-title {
+    color: #112E51 !important;
+}
+
+.fc-event {
+    display: flex;
+    white-space: normal;
+    align-items: center;
+}
+
+.fc-event-time, .fc-event-title {
+    display: contents;
+}
+.goog-te-combo {
+    padding: 5px;
+}
+
+#download-csv {
+    font-size: 12px;
+    padding: 6px;
+    color: rgb(51, 157, 97);
+    border: 1px solid rgb(51, 157, 97);
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+#download-csv:hover, #download-csv:focus {
+    color: white !important;
+    background-color: rgb(51, 157, 97);
+    text-decoration: none;
+}</style>
+		
+		
+		
+	
+		
+		<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/pwa-style.bundle-2739c60227.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/pwa-style.bundle-2739c60227.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+		</head>
+<body data-sitemap-state="/Meetings/:/"
+	data-dateformat="M/d/yyyy"
+	data-timeformat="h:mm tt"
+	data-datetimeformat="M/d/yyyy h:mm tt"
+	data-app-path="/"
+	data-ckeditor-basepath="/js/BaseHtmlContentDesigner/Libs/msdyncrm_/libs/ckeditor/"
+	data-case-deflection-url="/_services/search/0e688580-b7ac-ed11-aad1-001dd806abde">
+
+	
+		<link href="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-style.bundle-0d8f841437.css" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;link&#32;=&#32;document.createElement(&#39;link&#39;);&#32;link.crossOrigin&#32;=&#32;target.crossOrigin;&#32;link.href&#32;=&#32;&#39;/dist/pcf-style.bundle-0d8f841437.css&#39;;&#32;link.rel&#32;=&#32;&#39;stylesheet&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,link);" rel="stylesheet" />
+
+		
+	
+		
+
+	<div id="offlineNotificationBar" style="display: none;">
+		<img alt="web" id="web" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;img&#32;=&#32;document.createElement(&#39;img&#39;);&#32;img.src&#32;=&#32;&#39;/css/images/web.png&#39;;&#32;img.alt&#32;=&#32;&#39;web&#39;;&#32;img.id&#32;=&#32;&#39;web&#39;&#32;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,img);&#32;target.remove();" src="https://gov.content.powerapps.us/resource/powerappsportal/img/web.png"></img>
+		<div id="message">You&#8217;re offline. This is a read only version of the page.</div>
+		<div id="close" onclick="this.parentElement.style.display='none';"><img alt="close" onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;img&#32;=&#32;document.createElement(&#39;img&#39;);&#32;img.src&#32;=&#32;&#39;/css/images/close.png&#39;;&#32;img.alt&#32;=&#32;&#39;close&#39;;&#32;img.id&#32;=&#32;&#39;&#39;&#32;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,img);&#32;target.remove();" src="https://gov.content.powerapps.us/resource/powerappsportal/img/close.png"></img></div>
+	</div>
+
+	
+
+	<script type="text/javascript">
+		window["Microsoft"] = window["Microsoft"] || {};
+		window["Microsoft"].Dynamic365 = {
+			Portal: {
+				
+				User: {
+					userName: '',
+					contactId: ''
+				},
+				
+				version: '9.5.6.6',
+				type: 'DefaultPortalTemplate',
+				id: '93b8fe0c-9d30-46b4-9608-e5e1c967e4a6', 
+				geo: 'GCC2', 
+				tenant: '7036cda9-062d-4151-8144-97ddc56e7027', 
+				correlationId: 'f30db4c7-0c2b-4d96-a203-0711cae98449',
+				isTelemetryEnabled: 'True',
+				InstrumentationSettings: {
+					instrumentationKey: '2f217cb8f40440eeb8b0aa80a2be2f7e-e0ec7b51-d1bb-4d8c-83b1-cc77aaba9009-7472',
+					collectorEndpoint: 'https://tb.events.data.microsoft.com/OneCollector/1.0/'
+				},
+				timerProfileForBatching: 'NEAR_REAL_TIME'
+			}
+		}
+
+		// Mark request not cacheable if Dynamics365PortalAnalytics cookie is being refreshed by the server or if the cookie in request header is invalid
+		
+
+		// For client side telemetry intializing Dynamics365PortalAnalytics cookie object
+		
+				window["Microsoft"].Dynamic365.Portal.dynamics365PortalAnalytics = 'n-eP6oR_6b-pmqub2_2IP_vCGfG45Y9lRXDq0ziyQt678yz_ut1cw3CzsCnDyAFftVuvuC5KjVn_Z6h157oQl_MKlbSyg4f2Gl_tWJP7Lnjqa4vQNi930LFtlnmdtXRDir1DSS3S7NgWbWU4lDUQ5w2'; 
+		
+		
+	</script>
+	
+		
+
+<div class="navbar navbar-inverse navbar-static-top" role="banner">
+    <div class="skip-to-content"><a href="#mainContent">Skip to main content</a></div><div class="container">
+        <div class="navbar-header">
+
+            <!--div class="visible-xs-block">
+              <div class="xrm-editable-html&#32;xrm-attribute" data-languageContext="English"><div class="xrm-attribute-value"><a href="https://www.chicityclerk.com/"><img src="/OCC Website Logo.png" alt="City Clerk" style="width: auto; height: 32px; margin: 0 10px;">
+  
+</a></div></div>
+            </div-->
+            <div class="visible-sm-block visible-md-block visible-lg-block visible-xs-block navbar-brand">
+                <div class="xrm-editable-html&#32;xrm-attribute" data-languageContext="English"><div class="xrm-attribute-value"><a href="https://www.chicityclerk.com/"><img src="/OCC Website Logo.png" alt="City Clerk" style="width: auto; height: 32px; margin: 0 10px;">
+  
+</a></div></div>
+            </div>
+            <button type="button" class="navbar-toggle collapsed" title="Toggle navigation" data-toggle="collapse" data-target="#navbar" aria-expanded="false" onclick="setHeight();">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+            
+            
+            <nav aria-label="Main Navigation" class="navbar-right menu-bar " data-weblinks-maxdepth="2">
+                <ul class="nav navbar-nav weblinks">
+                    
+                    
+                    
+                    
+                    
+                    <li class="weblink ">
+                        <a aria-label="Legislation" aria-roledescription = "link" href="/" title="Legislation" >
+                            Legislation
+                        </a>
+                        
+                    </li>
+                    
+                    
+                    <li class="divider-vertical" aria-hidden="true"></li>
+                    
+                    
+                    
+                    
+                    <li class="weblink ">
+                        <a aria-label="Meetings" aria-roledescription = "link" href="/Meetings/" title="Meetings" >
+                            Meetings
+                        </a>
+                        
+                    </li>
+                    
+                    
+                    <li class="divider-vertical" aria-hidden="true"></li>
+                    
+                    
+                    
+                    
+                    <li class="weblink ">
+                        <a aria-label="Legislative Bodies" aria-roledescription = "link" href="/Legislative-Bodies/" title="Legislative Bodies" >
+                            Legislative Bodies
+                        </a>
+                        
+                    </li>
+                    
+                    
+                    <li class="divider-vertical" aria-hidden="true"></li>
+                    
+                    
+                    
+                    
+                    <li class="weblink ">
+                        <a aria-label="Legislative Members" aria-roledescription = "link" href="/Legislative-Members/" title="Legislative Members" >
+                            Legislative Members
+                        </a>
+                        
+                    </li>
+                    
+                    
+                    
+                    <li class="divider-vertical" aria-hidden="true"></li>
+                    
+                    
+                    <li>
+                        <a aria-label="Sign in" aria-roledescription = "link" href="/SignIn?returnUrl=%2FMeetings%2F">
+                            Sign in
+                        </a>
+                    </li>
+                    
+                </ul>
+                
+            </nav>
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  window.onload = function() {
+    if (window.navigator.appName == "Microsoft Internet Explorer" || window.navigator.userAgent.indexOf("Trident") > 0) {
+      var searchElement = document.getElementById("search");
+      if (searchElement != null) searchElement.setAttribute("href", "");
+    }
+  };
+  function setHeight() {
+    var windowHeight = window.innerHeight - 140;
+    var navbar = document.getElementById("navbar");
+    if (navbar) {
+      navbar.style.maxHeight = windowHeight + "px";
+    }
+  }
+  window.addEventListener('resize', function(event) {
+    setHeight();
+  });
+</script>
+
+
+	<!-- add anti-forgery token-->
+	<div id="antiforgerytoken" data-url="/_layout/tokenhtml"></div>
+
+
+	
+		<!-- Client Telemetry init if telemetry enabled-->
+		<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/client-telemetry.bundle-34ca1a66a2.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/client-telemetry.bundle-34ca1a66a2.js" type="text/javascript"></script>
+
+	
+	
+	<!-- Client Telemetry Wrapper init -->
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/client-telemetry-wrapper.bundle-0dd3da3c79.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/client-telemetry-wrapper.bundle-0dd3da3c79.js" type="text/javascript"></script>
+
+	<script>
+		window.clientLogWrapper = new ClientLogWrapper();
+	</script>
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/preform.moment_2_29_4.bundle-79a29b80d8.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/preform.moment_2_29_4.bundle-79a29b80d8.js" type="text/javascript"></script>
+
+	
+	
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf-dependency.bundle-805a1661b7.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-dependency.bundle-805a1661b7.js" type="text/javascript"></script>
+
+				<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf.bundle-c0769d8040.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf.bundle-c0769d8040.js" type="text/javascript"></script>
+
+				<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf-extended.bundle-e303d53553.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-extended.bundle-e303d53553.js" type="text/javascript"></script>
+
+		
+	<!-- Default studio template. Please do not modify -->
+<div id="mainContent" class = "wrapper-body" role="main">
+    <div class="page-copy"> <div class="xrm-editable-html&#32;xrm-attribute"><div class="xrm-attribute-value">
+
+<script>var apiUrl = "https://api.chicityclerkelms.chicago.gov"</script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0&appId="792214635557950"&autoLogAppEvents=1" nonce="CkFxuSAP"></script>
+<div class="row sectionBlockLayout text-left" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px; width: 100%; padding-top: 2rem;">
+  <div class="container" style="display: flex; flex-wrap: wrap; width: 100% !important;">
+    <div class="col-12 columnBlockLayout" style="flex-grow: 1; min-width: 310px; word-break: break-word; padding: 0px; display: flex; flex-direction: column; gap: 2rem; width: 100%; margin-top: 0px;">
+      <div class="content-header" style="display: flex; border-bottom: 1px solid #DCE4EF;">
+        <div class="meetings-tabs-header" style="width: 100%;">
+          <ul id="myTab" role="tablist" class="nav nav-tabs" style="border-bottom-width: initial; border-bottom-style: none; border-bottom-color: initial;">
+            <li class="nav-item active"><a id="grid-tab" data-toggle="tab" href="#grid" role="tab" aria-controls="grid" aria-selected="true" class="nav-link" style="border-top-width: initial; border-top-style: none; border-top-color: initial; border-right-width: initial; border-right-style: none; border-right-color: initial; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; border-left-width: initial; border-left-style: none; border-left-color: initial;"> List view </a></li>
+            <li class="nav-item"><a id="calendar-tab" data-toggle="tab" href="#calendar" role="tab" aria-controls="calendar" aria-selected="false" class="nav-link" style="color: rgb(119, 119, 119); border-top-width: initial; border-top-style: none; border-top-color: initial; border-right-width: initial; border-right-style: none; border-right-color: initial; border-left-width: 1px; border-left-style: solid; border-left-color: rgb(220, 228, 239); margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;"> Calendar </a></li>
+          </ul>
+        </div>
+        <div class="social-sharing" style="display: flex; align-items: center; gap: 6px; justify-content: right">
+          <div class="fb-share-button" id="fbSharing" data-layout="button" data-size="small"></div>
+          <a
+            class="twitter-share-button"
+            target="_blank"
+            data-size="small">
+            Share
+          </a>
+          <div style="display: flex; justify-content: flex-end;" id="google_translate_element"></div>
+        </div>
+      </div>
+      <div id="myTabContent" class="tab-content">
+        <div id="grid" role="tabpanel" aria-labelledby="grid-tab" class="tab-pane active">
+          <form id="meetingsForm" class="meetings-form" style="width: 100%; display: flex; flex-direction: column; align-items: center; background-color: rgb(220, 228, 239); padding-top: 1rem; padding-right: 1rem; padding-bottom: 1rem; padding-left: 1rem; row-gap: 1rem; column-gap: 1rem; margin-bottom: 1rem;">
+            <!--            <label for="bodySelect">Legislative Body</label>--><!--            <label for="date">Date</label>-->
+            <div class="inputs-group" style="max-height: fit-content; display: flex; flex-direction: row; row-gap: calc(0.5rem); column-gap: calc(0.5rem); height: 46px;">
+              <input id="search" name="search" placeholder="Meetings - Search by Keywords" type="text" class="form-control search-input" style="width: 100%; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; height: auto;" />
+              <button type="reset" class='meetings-button reset-button' id='resetButton'>
+                Clear Filters
+              </button>
+              <button class="search-button meetings-button" style="width: 30%; border-top-width: initial; border-right-width: initial; border-bottom-width: initial; border-left-width: initial; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; color: white; background-color: rgb(25, 118, 225);">Search</button>
+            </div>
+            <div class="inputs-group" style="max-height: fit-content; display: flex; flex-direction: row; row-gap: calc(0.5rem); column-gap: calc(0.5rem); height: 46px;">
+              <select name="date" id="date" class="search-select" style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
+                <option selected="" value="">All years</option>
+              </select>
+              <select id="bodySelect" name="body" class="search-select" style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
+                <option selected="" value="">All Legislative Bodies</option>
+              </select>
+              <select class="search-select" id="statusSelect" name="status" style="display: none;">
+                <option selected value>
+                  All Status
+                </option>
+              </select>
+              <a target="_blank" href="../../Meetings-Help" style="width: 6%; text-align: center; line-height: 46px; font-size: 700;">HELP</a>
+            </div>
+            <div style="width: 90%;">
+              <h5>Council and Committee meeting information prior to December 1, 2010 is not available online. As of 1/20/2020 City Council videos will be available for viewing on the home page of <a href="https://www.chicityclerk.com/">ChiCityClerk.com</a>. If you are looking for this information, please call us at (312) 744-6870.</h5>
+              <h5 style="color: red;">Note: Select "Meeting Details" link to view additional meeting information. Select “Attachments” to view supplemental, deferred and addendum notices and agendas, document links, votes and related legislative history.</h5>
+            </div>
+          </form>
+          <div style="margin-bottom: 1rem; width: 100%; display: flex; align-items: center; gap: 10px;">
+              <h3 style=" margin: 0; color: rgb(51, 157, 97) !important;">Meetings</h3>
+              <a target="_blank" id="download-csv" type="button">Download CSV</a>
+              <span>Export is limited to maximum of 5000 records per download.</span>
+          </div>
+          <table id="testingtable" class="table table-striped"></table>
+        </div>
+        <div id="calendar" role="tabpanel" aria-labelledby="calendar-tab" class="tab-pane"><div id="calendar-container" style="height: 800px; width: 100%;"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="eventModal" role="dialog" aria-labelledby="eventModalLabel" class="modal fade">
+  <div id="modalDialog" class="modal-dialog" style="margin: 0;">
+    <div class="modal-content" style="max-width: 400px;">
+      <div class="modal-header">
+        <button type="button" data-dismiss="modal" class="close"><span aria-hidden="true">×</span> <span class="sr-only">close</span></button>
+        <p id="modalTitle" class="modal-title" style="font-size: 17px;"></p>
+      </div>
+      <div id="modalBody" class="modal-body" style="display: flex; flex-direction: column; gap: 1rem;">
+        <div style="display: flex; flex-direction: row; gap: 1rem;">
+          <span aria-hidden="true" class="glyphicon glyphicon-map-marker" style="display: flex; align-items: center;"></span>
+          <h6 id="eventLocation" style="font-size: 15px;"></h6>
+        </div>
+        <div style="display: flex; flex-direction: row; gap: 1rem;">
+          <span aria-hidden="true" class="glyphicon glyphicon-calendar" style="display: flex; align-items: center;"></span>
+          <h6 id="eventDate" style="font-size: 15px;"></h6>
+        </div>
+        <a id="metingAncor">See details</a>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script src="https://unpkg.com/gridjs@5.1.0/dist/gridjs.production.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.5/index.global.min.js"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></div></div>
+</div>
+
+<!-- Default studio template. Please do not modify -->
+<style>
+ .entitylist
+ {
+     padding:30px;
+     border-radius:20px;
+
+      border: none;
+ }
+ .view-grid table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+      border: 3px solid #04AA6D;
+}
+
+.view-grid table td, table th {
+  border: 0px solid #ddd;
+  padding: 12px !important;
+}
+
+.view-grid table tr:nth-child(even){background-color: #f2f2f2;}
+
+.view-grid table tr:hover {background-color: #ddd;}
+
+.view-grid table th,.view-grid table th a {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+      text-decoration: none !important;
+    font-weight: bold;
+}
+
+.grid-actions{
+  border:none !important;
+}
+.private-mode-banner{
+  display:none !important;
+}
+</style>
+
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/pcf-loader.bundle-f4a0e619b8.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/pcf-loader.bundle-f4a0e619b8.js" type="text/javascript"></script>
+
+		
+		
+
+	
+		
+	
+	
+		<footer role="contentinfo" class="footer">
+  <div class="footer-bottom hidden-print">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12 text-left">
+          <div class="xrm-editable-html&#32;xrm-attribute" data-languageContext="English"><div class="xrm-attribute-value">
+<div style="width: 100%; display: flex; justify-content: space-between;">
+  <div class="content" style="display: flex; gap: 4px;">
+    <a class="smallText" style="font-size: 16px; color: white;" target="_blank" href="mailto: clerklmssupport@cityofchicago.org" class="smallText">eLMS Support</a>
+    <img class="footer-image" style="height: 20px !important" src="/favicon.ico"/>
+    <a class="smallText" style="font-size: 16px; color: white;" target="_blank" href="https://api.chicityclerkelms.chicago.gov" class="smallText">Public API (City Clerk eLMS API)</a>
+  </div>
+  <div class="content" style="display: flex; gap: 4px;">
+    <a class="smallText" style="font-size: 16px; color: white;" target="_blank" href="/Terms-of-service">Terms of service</a>
+    <img class="footer-image" style="height: 20px !important" src="/favicon.ico"/>
+    <p class="smallText">Copyright © 2023. All rights reserved.</p>
+  </div>
+</div>
+<style>
+  .content {
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+  }
+
+  @media (max-width: 992px) {
+    .content {
+      flex-direction: column;
+    }
+  }
+</style></div></div>
+        </div>
+        <div id="accessibilityLinkContainer" class="col-md-3 col-sm-3 col-xs-3 text-right">
+          
+        </div>
+      </div>
+    </div>
+</footer>
+
+<script type="text/javascript">
+  window.onload = function() {
+    const accessibilityLinkContainer = document.getElementById("accessibilityLinkContainer");
+    switch(window.navigator.language) {
+      case "fr":
+        if (accessibilityLinkContainer != null) {
+          const accessibilityText="Accessibilité : partiellement conforme";
+          const frenchAccessibilityAnchor = document.createElement("a");
+          frenchAccessibilityAnchor.id = "frenchAccesssibleLink";
+          frenchAccessibilityAnchor.target = "_blank";
+          frenchAccessibilityAnchor.href = "https://go.microsoft.com/fwlink/?linkid=2163806";
+          frenchAccessibilityAnchor.title = accessibilityText;
+          frenchAccessibilityAnchor.innerText = accessibilityText;
+          accessibilityLinkContainer.appendChild(frenchAccessibilityAnchor);
+        }
+        break;
+      case "it":
+        if (accessibilityLinkContainer != null) {
+          const accessibilityText="Accessibilità: parzialmente conforme";
+          const italianAccessibilityAnchor = document.createElement("a");
+          italianAccessibilityAnchor.id = "italianAccesssibleLink";
+          italianAccessibilityAnchor.target = "_blank";
+          italianAccessibilityAnchor.href = "https://go.microsoft.com/fwlink/?linkid=2208177";
+          italianAccessibilityAnchor.title = accessibilityText;
+          italianAccessibilityAnchor.innerText = accessibilityText;
+          accessibilityLinkContainer.appendChild(italianAccessibilityAnchor);
+        }
+        break;
+      default: 
+        accessibilityLinkContainer.remove();
+    }
+  };
+ </script>
+	
+	
+	
+	
+	
+	
+	
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/bootstrap.bundle-105a4995b8.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/bootstrap.bundle-105a4995b8.js" type="text/javascript"></script>
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/postpreform.bundle-b36bd5147c.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/postpreform.bundle-b36bd5147c.js" type="text/javascript"></script>
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/app.bundle-ac36488b2a.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/app.bundle-ac36488b2a.js" type="text/javascript"></script>
+
+	<script onerror="javascript:&#32;var&#32;target&#32;=&#32;event.target;&#32;var&#32;script&#32;=&#32;document.createElement(&#39;script&#39;);&#32;script.crossOrigin&#32;=&#32;target.crossOrigin;&#32;script.src&#32;=&#32;&#39;/dist/default-1033.moment_2_29_4.bundle-eda4e638fd.js&#39;;&#32;script.type&#32;=&#32;&#39;text/javascript&#39;;&#32;target.insertAdjacentElement(&#39;afterend&#39;,script);" src="https://gov.content.powerapps.us/resource/powerappsportal/dist/default-1033.moment_2_29_4.bundle-eda4e638fd.js" type="text/javascript"></script>
+
+	
+	<script type="text/javascript">const url = apiUrl + "/meeting"
+  
+document.addEventListener("DOMContentLoaded", function () {
+  const currentNavItem = document.querySelector(`ul.navbar-nav.weblinks`).children[2].children[0]
+  currentNavItem.setAttribute("id", "nav-selected")
+
+  const urlParams = new URLSearchParams(window.location.search);
+  const selectedBody = urlParams.get('body');
+
+  const facebook = document.getElementById("fbSharing")
+  facebook.setAttribute("data-href", encodeURI(window.location.href))
+
+  const yearSelect = document.getElementById("date");
+  const currentYear = new Date().getFullYear();
+
+  for (let year = currentYear; year >= 2010; year--) {
+    const option = document.createElement("option");
+    option.value = String(year);
+    option.text = String(year);
+    if (year === currentYear) option.selected = true
+    yearSelect.appendChild(option);
+  }
+  const Grid = window.gridjs.Grid;
+  const html = window.gridjs.html;
+  const rowHtml = window.gridjs.h
+
+  let grid;
+  let bodySelected
+  let yearSelected
+  let statusSelected
+  const renderTable = (data) => {
+    return data.data.map((record) => [
+      record.body,
+      record.date,
+      record.status,
+      { begin: record.date, subject: record.body || "", location: record.location || "" },
+      record.location,
+      record.files,
+      record.videoLink,
+      record.meetingId,
+      record.comment
+    ]);
+  }
+
+  function getData(form) {
+    let formData = new FormData(form);
+
+    return Object.fromEntries(formData);
+  }
+
+  const getFullYearFilter = (facetName, year) => {
+    const firstDay = new Date(year, 0, 1, 0, 0).toISOString()
+    const lastDay = new Date(year, 11, 31, 24, 59).toISOString()
+    return `(${facetName} ge ${firstDay} and ${facetName} le ${lastDay})`
+  }
+
+  const getSimpleSearchFilter = (facetName, value) => {
+    return `${facetName} eq '${value}'`
+  }
+
+  const refetchMeetingsAfterEvent = (event) => {
+    const filtersArray = []
+    const formData = getData(event.currentTarget)
+    yearSelected = formData.year
+    bodySelected = formData.body
+    statusSelected = formData.status
+    Object.entries(formData).forEach(([facetName, value]) => {
+      if (!value) return
+      if (facetName === "body") {
+        filtersArray.push(getSimpleSearchFilter("body", value))
+      } else if (facetName === "date") {
+        filtersArray.push(getFullYearFilter("date", value))
+      } else if (facetName === "status") {
+        filtersArray.push(getSimpleSearchFilter("status", value))
+      }
+    })
+    const filters = filtersArray.join(" and ")
+
+    const searchQueryParams = `/?filter=${filters}&search=${(formData.search || "").trim()}`
+    const thisUrl = url + searchQueryParams
+    document.getElementById("download-csv").setAttribute("href", apiUrl + "/export/meeting" + searchQueryParams)
+
+    return grid.updateConfig({
+      server: {
+        url: thisUrl,
+        then: data => {
+          const bodySelect = document.getElementById("bodySelect")
+          while (bodySelect.options.length > 1) {
+            bodySelect.remove(bodySelect.options.length - 1);
+          }
+          const bodyFacet = data.facets.find(el => el.name === "body")
+          const sortedBodies = bodyFacet.values.sort((a, b) => a.value.localeCompare(b.value))
+          sortedBodies.forEach(el => {
+            const lastWordInBody = el.value.split(" ").pop()
+            const option = document.createElement("option");
+            option.value = String(el.value);
+            if (el.value === bodySelected) {
+              option.defaultSelected = true
+            }
+            option.text = String(el.value);
+            option.style.color = lastWordInBody === "(inactive)" ? "red" : undefined
+            bodySelect.appendChild(option);
+          })
+
+          const statusSelect = document.getElementById("statusSelect")
+          
+          while (statusSelect.options.length > 1) {
+            statusSelect.remove(statusSelect.options.length - 1);
+          }
+          const statusFacet = data.facets.find(el => el.name === "status")
+          const sortedStatus = ((statusFacet || {}).values || []).sort((a, b) => a.value.localeCompare(b.value))
+          sortedStatus.forEach(el => {
+            const option = document.createElement("option");
+            option.value = String(el.value);
+            if (el.value === statusSelected) {
+              option.defaultSelected = true
+            }
+            option.text = String(el.value);
+            statusSelect.appendChild(option);
+          })
+
+          return renderTable(data)
+        },
+        total: (data) => data.meta.count,
+      }
+    }).forceRender()
+  }
+
+  document.getElementById("meetingsForm").addEventListener("change", e => {
+    e.preventDefault()
+    if (e.target.id === "search") return
+    refetchMeetingsAfterEvent(e)
+  })
+
+  document.getElementById("meetingsForm").addEventListener("submit", e => {
+    e.preventDefault()
+    refetchMeetingsAfterEvent(e)
+  })
+
+  document.getElementById("meetingsForm").addEventListener("reset", e => {
+    yearSelected = null
+    bodySelected = null
+    statusSelected = null
+    return grid.updateConfig({
+      server: {
+        url: url + '/?',
+        then: data => {
+          const bodySelect = document.getElementById("bodySelect")
+          while (bodySelect.options.length > 1) {
+            bodySelect.remove(bodySelect.options.length - 1);
+          }
+          const bodyFacet = data.facets.find(el => el.name === "body")
+          const sortedBodies = bodyFacet.values.sort((a, b) => a.value.localeCompare(b.value))
+          sortedBodies.forEach(el => {
+            const lastWordInBody = el.value.split(" ").pop()
+            const option = document.createElement("option");
+            option.value = String(el.value);
+            if (el.value === bodySelected) {
+              option.defaultSelected = true
+            }
+            option.text = String(el.value);
+            option.style.color = lastWordInBody === "(inactive)" ? "red" : undefined
+            bodySelect.appendChild(option);
+          })
+
+          const statusSelect = document.getElementById("statusSelect")
+          while (statusSelect.options.length > 1) {
+            statusSelect.remove(statusSelect.options.length - 1);
+          }
+          const statusFacet = data.facets.find(el => el.name === "status")
+          const sortedStatus = ((statusFacet || {}).values || []).sort((a, b) => a.value.localeCompare(b.value))
+          sortedStatus.forEach(el => {
+            const option = document.createElement("option");
+            option.value = String(el.value);
+            if (el.value === statusSelected) {
+              option.defaultSelected = true
+            }
+            option.text = String(el.value);
+            statusSelect.appendChild(option);
+          })
+          return renderTable(data)
+        },
+        total: (data) => data.meta.count,
+      }
+    }).forceRender()
+
+  })
+
+  const initialParams = '/?filter=' + getFullYearFilter("date", currentYear) + (selectedBody ? ` and body eq '${selectedBody}'` : '')
+
+  document.getElementById("download-csv").setAttribute("href", apiUrl + "/export/meeting" + initialParams)
+
+  grid = new Grid({
+    columns: [
+      {
+        name: 'Body',
+        sort: {
+          compare: (a, b) => a.localeCompare(b),
+          sort: 'desc',
+        },
+        formatter: (cell, row) => {
+          if (!cell) return
+          const status = row.cells[2].data && row.cells[2].data !== "Scheduled" ? row.cells[2].data : ""
+          const statusLabel = `<span style="color: red; border-radius: 4px; font-weight: bold; font-size: 12px">${status}</span>`
+          const bodyLabel = `<span>${cell}</span>`
+          return html(`<div style="display: flex; flex-direction: column; gap: 6px">${bodyLabel}${status && statusLabel}</div>`)
+        }
+      },
+      {
+        name: 'Date',
+        sort: {
+          compare: (a, b) => new Date(a).getTime() - new Date(b).getTime(),
+          sort: 'desc',
+        },
+        formatter: (cell, row) => {
+          if (!cell) return
+          const comment = row.cells[8].data || ""
+          const commentLabel = `<span style="color: rgb(51, 157, 97); border-radius: 4px; font-weight: bold; font-size: 12px">${comment}</span>`
+          const date = new Date(cell).toLocaleString()
+          const dateLabel = `<span>${date}</span>`
+          return html(`<div style="display: flex; flex-direction: column; gap: 6px">${dateLabel}${comment && commentLabel}</div>`)
+        }
+      },
+      {
+        name: 'Status',
+        sort: false,
+        hidden: true
+      },
+      {
+        width: "30px",
+        sort: false,
+        style: {
+          textAlign: "center"
+        },
+        formatter: (cell) => {
+          return rowHtml('a', {
+            onClick: () => {
+              let url = [
+                "BEGIN:VCALENDAR",
+                "VERSION:2.0",
+                "BEGIN:VEVENT",
+                "DTSTART:" + convertDate(cell.begin),
+                "DTEND:",
+                "SUMMARY:" + cell.subject,
+                "DESCRIPTION:" + cell.subject,
+                "LOCATION:" + cell.location,
+                "BEGIN:VALARM",
+                "TRIGGER:-PT15M",
+                "REPEAT:1",
+                "DURATION:PT15M",
+                "ACTION:DISPLAY",
+                "DESCRIPTION:Reminder",
+                "END:VALARM",
+                "END:VEVENT",
+                "END:VCALENDAR"
+              ].join("\n");
+
+              let blob = new Blob([url], { type: 'text/calendar;charset=utf-8' });
+
+              if (/msie\s|trident\/|edge\//i.test(window.navigator.userAgent)) {
+                // Open/Save link in IE and Edge
+                window.navigator.msSaveBlob(blob, `.ics`);
+              } else {
+                // Open/Save link in Modern Browsers
+                window.open(encodeURI("data:text/calendar;charset=utf8," + url));
+              }
+            },
+          }, html('<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>'))
+        }
+      },
+      {
+        name: 'Location',
+        sort: false,
+      },
+      {
+        name: 'Files',
+        sort: false,
+        width: "10%",
+        formatter: (attachments, row) => {
+          if (!attachments || attachments.length < 1) return
+          const counts = {}
+
+          attachments.forEach(({ attachmentType }) => {
+            if (!counts[attachmentType.trim()]) counts[attachmentType.trim()] = 0
+            counts[attachmentType.trim()] = counts[attachmentType.trim()] + 1 
+          })
+
+          const meetingId = row.cells[7].data
+
+          const attachemntsUrl = `../../Meeting?meetingId=${meetingId}&targetTab=attachments`
+
+          let fileLinks = '';
+          const sortingArray = ['Agenda', 'Notice', 'Summary', 'Report', 'Other']
+          Object.entries(counts).sort((a, b) => sortingArray.indexOf(a[0]) - sortingArray.indexOf(b[0])).forEach(([name, count]) => {
+            const link = `<a href="${attachemntsUrl}" target="_blank">${name} (${count})</a>`;
+            fileLinks += link;
+          });
+          return html(`<div style="display: flex; flex-direction: column; gap: 6px">${fileLinks}</div>`);
+        }
+      },
+      {
+        name: "Video",
+        sort: false,
+        width: "8%",
+        formatter: cell => {
+           return cell ? html(`<a target="_blank" href=${cell}><span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span> Video</a>`) : null
+        }
+      },
+      {
+        name: 'Details/Files',
+        sort: false,
+        width: "12%",
+        formatter: (cell, row) => {
+          const detailsLabel = `<a href='../../Meeting?meetingId=${cell}'>Details</a>`
+          return html(detailsLabel)
+        }
+      },
+      {
+        name: "Comment",
+        hidden: true
+      }
+    ],
+    className: {
+      table: "table table-striped",
+      container: "table-responsive"
+    },
+    pagination: {
+      enabled: true,
+      limit: 20,
+      server: {
+        url: (prev, page, limit) => `${prev}&skip=${page * limit}&top=${limit}`,
+      },
+    },
+    server: {
+      url: selectedBody
+        ? url + '/?filter=' + getFullYearFilter("date", currentYear) + ` and body eq '${selectedBody}'`
+        : url + '/?filter=' + getFullYearFilter("date", currentYear),
+      then: data => {
+        const bodySelect = document.getElementById("bodySelect")
+        const bodyFacet = data.facets.find(el => el.name === "body")
+        const sortedBodies = bodyFacet.values.sort((a, b) => a.value.localeCompare(b.value))
+        sortedBodies.forEach(el => {
+          const lastWordInBody = el.value.split(" ").pop()
+          const option = document.createElement("option");
+          option.value = String(el.value);
+          if (el.value === selectedBody) {
+            option.defaultSelected = true
+          }
+          option.text = String(el.value);
+          option.style.color = lastWordInBody === "(inactive)" ? "red" : undefined
+          bodySelect.appendChild(option);
+        })
+
+        const statusSelect = document.getElementById("statusSelect")
+        while (statusSelect.options.length > 1) {
+          statusSelect.remove(statusSelect.options.length - 1);
+        }
+        const statusFacet = data.facets.find(el => el.name === "status")
+        const sortedStatus = ((statusFacet || {}).values || []).sort((a, b) => a.value.localeCompare(b.value))
+        sortedStatus.forEach(el => {
+          const option = document.createElement("option");
+          option.value = String(el.value);
+          if (el.value === statusSelected) {
+              option.defaultSelected = true
+          }
+          option.text = String(el.value);
+          statusSelect.appendChild(option);
+        })
+        return renderTable(data)
+      },
+      total: (data) => data.meta.count,
+    },
+    sort: {
+      multiColumn: false,
+      server: {
+        url: (prev, columns) => {
+          if (!columns.length) return prev;
+
+          const col = columns[0];
+          const dir = col.direction === 1 ? 'asc' : 'desc';
+          let colName = ['body', 'date', 'location'][col.index];
+
+          return `${prev}&sort=${colName}%20${dir}`;
+        },
+      },
+    },
+  });
+
+  grid.render(document.getElementById("testingtable"));
+  function positionEventModal(event) {
+    // get the clicked event element
+    const $eventElement = $(event.target).closest('.fc-event');
+    // get the modal element
+    const $modalElement = $('#modalDialog');
+    // calculate the modal position
+    const modalTop = event.y - 10;
+    const modalLeft = event.x + $eventElement.outerWidth()/2 + 10;
+    // set the modal position
+    $modalElement.css({
+      top: modalTop,
+      left: modalLeft
+    });
+  }
+
+  var calendarEl = document.getElementById('calendar-container');
+  var calendar = new FullCalendar.Calendar(calendarEl, {
+    initialView: 'dayGridMonth',
+    initialDate: new Date().toISOString(),
+    headerToolbar: {
+      left: 'prev,next today',
+      center: 'title',
+      right: 'dayGridMonth,timeGridWeek,timeGridDay'
+    },
+    eventClick: function(info) {
+      $('#modalTitle').html(info.event.extendedProps.body);
+      $('#eventLocation').html(info.event.extendedProps.location);
+
+      const date = new Date(info.event.extendedProps.eventDate)
+      info.event.extendedProps.eventDate && $('#eventDate').html(new Intl.DateTimeFormat('en-US', { dateStyle: "short", timeStyle: "short" }).format(date));
+      $('#metingAncor').attr('href', `../../Meeting?meetingId=${info.event.extendedProps.meetingId}`);
+      $('#metingAncor').attr('target', "_blank");
+      $('#eventModal').modal();
+      positionEventModal(info.jsEvent);
+    },
+    eventRender: function(event, element) {
+      // add click event listener to each event element
+      element.on('click', function(jsEvent) {
+        // position modal next to the clicked event
+        positionEventModal(jsEvent);
+      });
+    },
+    eventColor: "rgb(51, 157, 97)",
+    eventTimeFormat: {
+      hour: 'numeric',
+      minute: '2-digit',
+    },
+    events: function (fetchInfo, successCallback, failureCallback) {
+      const searchParams = '/?filter=date%20gt%20' + fetchInfo.start.toISOString() + '%20and%20date%20lt%20' + fetchInfo.end.toISOString()
+      var clanedarUrl = url + searchParams;
+      $.ajax({
+        url: clanedarUrl,
+        dataType: 'json',
+        success: function (data) {
+          var events = [];
+          data.data.forEach(function (record) {
+            const statusLabel = (record.status && record.status !== "Scheduled") ? ( " " + record.status.toUpperCase()) : ""
+            var event = {
+              title: " " + record.body + statusLabel,
+              body: record.body,
+              start: record.date,
+              eventDate: record.date,
+              location: record.location,
+              meetingId: record.meetingId,
+              meetingKey: record.meetingKey
+            };
+            events.push(event);
+          });
+          successCallback(events);
+        },
+        error: function () {
+          failureCallback('There was an error fetching calendar events.');
+        }
+      });
+    },
+    dateClick: function (info) {
+      // Handle date click event
+      var startDate = info.date.toISOString();
+      var endDate = info.date.clone().add(1, 'days').toISOString();
+      var calendarUrl = url + '/?filter=date%20gt%20' + startDate + '%20and%20date%20lt%20' + endDate;
+      // Make API call and update events
+      calendar.refetchEvents();
+    },
+    dateSelect: function (info) {
+      // Handle date select event
+      var startDate = info.start.toISOString();
+      var endDate = info.end.toISOString();
+      var calendarUrl = url + '/?filter=date%20gt%20' + startDate + '%20and%20date%20lt%20' + endDate;
+      // Make API call and update events
+      calendar.refetchEvents();
+    }
+  });
+  calendar.render();
+  var calendarTab = document.getElementById('calendar-tab');
+  calendarTab.addEventListener('click', function () {
+    // Trigger resize event
+    window.dispatchEvent(new Event('resize'));
+  });
+
+  function convertDate(date) {
+    let event = new Date(date).toISOString();
+    event = event.split("T")[0];
+    event = event.split("-");
+    event = event.join("");
+    return event;
+  }
+});
+
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement(
+    { pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL },
+    'google_translate_element'
+  );
+}
+</script>
+	
+	<script>
+		//this event will update the title of the page based on active breadcrumb
+		$('.breadcrumb').ready(function () {
+			if ($('.breadcrumb').is(':visible')) {
+				document.querySelector('title').innerHTML = ($('.breadcrumb > li.active').text() + "- Office of the City Clerk");
+			}
+		});
+
+		function GoToNewEditor() {
+			var editCmsUrlSegment = "EditInCms";
+			var currentUrl = window.location.href;
+			if (currentUrl.indexOf('?') > -1) {
+				var urlSegments = currentUrl.split("?");
+				window.location.href = window.location.origin + '/' + editCmsUrlSegment + window.location.pathname + '?' + urlSegments[1];
+			}
+			else {
+				window.location.href = window.location.origin + '/' + editCmsUrlSegment + window.location.pathname;
+			}
+		}
+	</script>
+	
+		
+	
+	
+		
+			<script>
+				if ('serviceWorker' in navigator) {
+					navigator.serviceWorker.getRegistrations().then(function(registrations) {
+					for(let registration of registrations) {
+						registration.unregister();
+					}}).catch(function(err) {
+					console.log('Service Worker unregister action failed: ', err);
+					});
+				}
+			</script>
+		
+	
+		
+	<!--Start Show Session Expire Warning Popup here -->
+    
+</body>
+</html>
+<!-- Generated at 9/23/2023 5:42:54 PM -->
+<!-- Page OK -->

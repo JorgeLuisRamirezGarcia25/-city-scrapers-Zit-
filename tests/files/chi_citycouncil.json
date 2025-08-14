@@ -1,0 +1,3747 @@
+{
+  "facets": [
+    {
+      "name": "status",
+      "values": [
+        {
+          "value": "Scheduled",
+          "count": 57
+        },
+        {
+          "value": "Cancelled",
+          "count": 5
+        },
+        {
+          "value": "Rescheduled",
+          "count": 3
+        },
+        {
+          "value": "Recessed",
+          "count": 1
+        },
+        {
+          "value": "Reconvened",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "values": [
+        {
+          "value": "Committee on Finance",
+          "count": 339
+        },
+        {
+          "value": "Committee on Budget and Government Operations",
+          "count": 303
+        },
+        {
+          "value": "City Council",
+          "count": 215
+        },
+        {
+          "value": "Committee on Housing and Real Estate",
+          "count": 203
+        },
+        {
+          "value": "Committee on Zoning, Landmarks and Building Standards",
+          "count": 198
+        },
+        {
+          "value": "Committee on License and Consumer Protection",
+          "count": 170
+        },
+        {
+          "value": "Committee on Transportation and Public Way",
+          "count": 160
+        },
+        {
+          "value": "Committee on Pedestrian and Traffic Safety",
+          "count": 157
+        },
+        {
+          "value": "Committee on Economic, Capital and Technology Development",
+          "count": 153
+        },
+        {
+          "value": "Committee on Public Safety",
+          "count": 141
+        },
+        {
+          "value": "Committee on Committees, Rules and Ethics",
+          "count": 87
+        },
+        {
+          "value": "Committee on Special Events, Cultural Affairs and Recreation",
+          "count": 82
+        },
+        {
+          "value": "Committee on Workforce Development and Audit",
+          "count": 62
+        },
+        {
+          "value": "Committee on Aviation",
+          "count": 61
+        },
+        {
+          "value": "Committee on Health and Environmental Protection",
+          "count": 59
+        },
+        {
+          "value": "Committee on Health and Human Relations",
+          "count": 55
+        },
+        {
+          "value": "Committee on Human Relations",
+          "count": 51
+        },
+        {
+          "value": "Committee on Education and Child Development",
+          "count": 49
+        },
+        {
+          "value": "Committee on Committees and Rules",
+          "count": 47
+        },
+        {
+          "value": "Committee on Workforce Development",
+          "count": 32
+        },
+        {
+          "value": "Committee on Environmental Protection and Energy",
+          "count": 22
+        },
+        {
+          "value": "Committee on Ethics and Government Oversight",
+          "count": 20
+        },
+        {
+          "value": "Joint Committee: Budget and Government Operations; Public Safety",
+          "count": 14
+        },
+        {
+          "value": "Committee on Contracting Oversight and Equity",
+          "count": 12
+        },
+        {
+          "value": "Committee on Immigrant and Refugee Rights",
+          "count": 10
+        },
+        {
+          "value": "Joint Committee: Aviation; Finance",
+          "count": 7
+        },
+        {
+          "value": "Joint Committee: Finance; Public Safety",
+          "count": 7
+        },
+        {
+          "value": "Committee on Police and Fire",
+          "count": 6
+        },
+        {
+          "value": "Joint Committee: Health and Human Relations; Public Safety",
+          "count": 6
+        },
+        {
+          "value": "Joint Committee: Housing and Real Estate; Zoning, Landmarks and Building Standards",
+          "count": 6
+        },
+        {
+          "value": "Council Office of Financial Analysis Oversight Committee",
+          "count": 5
+        },
+        {
+          "value": "Joint Committee: Economic, Capital and Technology Development; Finance",
+          "count": 5
+        },
+        {
+          "value": "Joint Committee: Finance; Transportation and Public Way",
+          "count": 5
+        },
+        {
+          "value": "Joint Committee: License and Consumer Protection; Transportation and Public Way",
+          "count": 5
+        },
+        {
+          "value": "Joint Committee: Zoning, Landmarks and Building Standards; License and Consumer Protection",
+          "count": 5
+        },
+        {
+          "value": "Committee on Energy, Environmental Protection and Public Utilities",
+          "count": 4
+        },
+        {
+          "value": "Joint Committee: Housing and Real Estate; Human Relations",
+          "count": 4
+        },
+        {
+          "value": "Special Committee on the Chicago Casino",
+          "count": 4
+        },
+        {
+          "value": "Joint Committee: Finance; Budget and Government Operations",
+          "count": 3
+        },
+        {
+          "value": "Joint Committee: Budget and Government Operations; Zoning, Landmarks and Building Standards",
+          "count": 2
+        },
+        {
+          "value": "Joint Committee: Education and Child Development; Health and Environmental Protection",
+          "count": 2
+        },
+        {
+          "value": "Joint Committee: Finance; Environmental Protection and Energy",
+          "count": 2
+        },
+        {
+          "value": "Joint Committee: Finance; Zoning, Landmarks and Building Standards",
+          "count": 2
+        },
+        {
+          "value": "Joint Committee: Health and Human Relations; Workforce Development",
+          "count": 2
+        },
+        {
+          "value": "Joint Committee: Human Relations; Public Safety",
+          "count": 2
+        },
+        {
+          "value": "Joint Committee: License and Consumer Protection; Zoning, Landmarks and Building Standards",
+          "count": 2
+        },
+        {
+          "value": "Joint Committee:  Environmental Protection and Energy; Health and Human Relations",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Aviation; Workforce Development and Audit",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Budget and Government Operations, Ethics and Government Oversight; Public Safety",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Budget and Government Operations; Finance",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Contracting Oversight and Equity; Ethics and Government Oversignt",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Economic, Capital and Technology Development; Pedestrian and Traffic Safety ",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Education and Child Development; Public Safety",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Environmental Protection and Energy; Ethics and Government Oversight",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Environmental Protection and Energy; Public Safety",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Finance; License and Consumer Protection",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Health and Human Relations; Economic, Capital and Technology Development",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Human Relations; Special Events, Cultural Affairs and Recreation",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: License and Consumer Protection; Aviation",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: License and Consumer Protection; Housing and Real Estate",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: License and Consumer Protection; Pedestrian and Traffic Safety",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: License and Consumer Protection; Public Safety",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Public Safety; Police & Fire",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Public Safety; Special Events, Cultural Affairs and Recreation; Education and Child Development; Health and Human Relations",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Transportation and Public Way; Pedestrian and Traffic Safety; License and Consumer Protection",
+          "count": 1
+        },
+        {
+          "value": "Joint Committee: Workforce Development and Audit; Committees, Rules and Ethics",
+          "count": 1
+        },
+        {
+          "value": "Joint Commuittee: Finance; License and Consumer Protection",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "meetingId": "05889499-4C56-EE11-BE6E-001DD8098532",
+      "status": "Scheduled",
+      "bodyId": "ED9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Zoning, Landmarks and Building Standards",
+      "comment": "Written public comment deadline October 11, 2023, 3:00 PM",
+      "bodyAbbreviation": "Zoning",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-12T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/115c5a12-4d33-4814-8753-26ba45447177.pdf",
+          "fileName": "0026_001.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/00d71fb1-60b5-4a22-8d0b-abf981d6149f.pdf",
+          "fileName": "Regular Agenda Oct 12, 2023.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "B29A1440-C953-EE11-BE6E-001DD80974AF",
+      "status": "Cancelled",
+      "bodyId": "ED9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Zoning, Landmarks and Building Standards",
+      "comment": "",
+      "bodyAbbreviation": "Zoning",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-12T15:00:00+00:00",
+      "files": [],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "535CDD8B-9059-EE11-BE6E-001DD80984F5",
+      "status": "Scheduled",
+      "bodyId": "DB9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Housing and Real Estate",
+      "comment": "Written public comment deadline October 9, 2023",
+      "bodyAbbreviation": "Housing",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-10T14:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/86a3ed1f-40ac-45b9-ae9e-7273e44f0a15.pdf",
+          "fileName": "HRE NOTICE 10OCT23.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "EBC5A3E3-4056-EE11-BE6E-001DD8098482",
+      "status": "Scheduled",
+      "bodyId": "E99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Pedestrian and Traffic Safety",
+      "comment": "Direct introduction deadline September 26, 2023, 10:00 AM",
+      "bodyAbbreviation": "Traffic",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-05T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e5ecb01a-fee2-4e66-8143-04a5f147c612.pdf",
+          "fileName": "OCT 2023 PT&S MEETING NOTICE (1).pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "DEBD1395-3F53-EE11-BE6E-001DD8097665",
+      "status": "Scheduled",
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "",
+      "bodyAbbreviation": "City Council",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-04T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/05a907c9-676b-4617-9d0b-266830f5ebcf.pdf",
+          "fileName": "10-04-2023 Public Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "C38D75F1-365D-EE11-BE6E-001DD8306E88",
+      "status": "Scheduled",
+      "bodyId": "D39FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Budget and Government Operations",
+      "comment": "",
+      "bodyAbbreviation": "Budget",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-03T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/75438593-cf60-40a1-a091-d1661b7868df.pdf",
+          "fileName": "CBGO.NOTICE20231003.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/acfca3c5-ebfb-4e80-980b-9b12b34fd1b9.pdf",
+          "fileName": "CBGO.AGENDA20231003.pdf",
+          "attachmentType": "Agenda",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "23C5F0A7-C853-EE11-BE6E-001DD80974AF",
+      "status": "Rescheduled",
+      "bodyId": "E09FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Transportation and Public Way",
+      "comment": "REVISED MEETING TIME IS 1:00 pm  Change of meeting room location to 201-A  2nd Floor City Hall.  See Revised Notice.",
+      "bodyAbbreviation": "Transportation",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-03T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/22779f24-9dde-43f0-9461-c66337b1aec1.pdf",
+          "fileName": "Original Notice Transp_20230921094709.pdf",
+          "attachmentType": "Other",
+          "sort": 50
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/82ca68e2-5426-4869-b614-46d27fb3b2bf.pdf",
+          "fileName": "TRANSP RevisedNotice.sep 21._20230921093655.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "7A93B084-AB5B-EE11-BE6E-001DD8306758",
+      "status": "Scheduled",
+      "bodyId": "6D46319F-9759-EE11-BE6E-001DD8098532",
+      "body": "Joint Committee:  Environmental Protection and Energy; Health and Human Relations",
+      "comment": "Written public comment deadline October 2, 2023  \nSubject Matter Hearing re: Cumulative Impact Assessment Report",
+      "bodyAbbreviation": "Joint Environmental Protection and Energy/Health and Human Relations",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-03T14:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/478c5dcb-f5f1-41b4-84b6-87daf2e6c34c.pdf",
+          "fileName": "OCTOBER EPE & HR MTG NOTICE.docx (2).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dc3e6e9f-7570-45bf-862d-c75581cfe11f.pdf",
+          "fileName": "OCTOBER EPE & HR MTG AGENDA.docx.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0E3FBAC3-5E56-EE11-BE6E-001DD8098482",
+      "status": "Scheduled",
+      "bodyId": "D59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Economic, Capital and Technology Development",
+      "comment": "Written public comment deadline September 29, 2023",
+      "bodyAbbreviation": "Economic Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-02T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/99d14020-8573-459b-a4bf-a9e44aed0a0d.pdf",
+          "fileName": "Economic Notice.oct2.sep18.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e2534413-83c5-4c91-80c3-bf6b13be29dd.pdf",
+          "fileName": "Economic Agenda.Oct 2.sep26.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "B4FDE714-C953-EE11-BE6E-001DD80974AF",
+      "status": "Scheduled",
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "",
+      "bodyAbbreviation": "Finance",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-10-02T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b8e1ad0b-755c-4e8e-806d-af29ed55ac0e.pdf",
+          "fileName": "4153_001.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "A4DFBB70-5B59-EE11-BE6E-001DD8098347",
+      "status": "Scheduled",
+      "bodyId": "6D311858-5959-EE11-BE6E-001DD80984F5",
+      "body": "Joint Committee: Public Safety; Police & Fire",
+      "comment": "Written public comment deadline September 28, 2023 \nSubmit to Committee on Public Safety",
+      "bodyAbbreviation": "Joint Public Safety/Police/Fire",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-09-29T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4d994586-a728-4ada-9990-6f669ba2101a.pdf",
+          "fileName": "Joint Meeting Notice publc s police fie.sep 29_20230922102423.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/52a90f18-d953-4893-a47c-0c5293d16068.pdf",
+          "fileName": "Joint Committee Agenda (2).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "6D3302F8-4859-EE11-BE6E-001DD8098482",
+      "status": "Scheduled",
+      "bodyId": "08A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Immigrant and Refugee Rights",
+      "comment": "",
+      "bodyAbbreviation": "Immigrant Rights",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-09-29T14:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/45e72d32-5507-4ba9-aa19-0307a9b0d3b2.pdf",
+          "fileName": "230921-CIRR-notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/de3172b2-8476-47dc-a21f-9b20837e695a.pdf",
+          "fileName": "230921-CIRR-agenda.pdf",
+          "attachmentType": "Agenda",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "49B9424C-C657-EE11-BE6E-001DD80984F5",
+      "status": "Scheduled",
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "Special Meeting",
+      "bodyAbbreviation": "City Council",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/868378239",
+      "transcriptLink": "",
+      "date": "2023-09-27T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/fb5e8e08-fb45-44eb-b08b-e7dbfc31601e.pdf",
+          "fileName": "20230920095924.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8e3dfc46-ed1a-4223-a720-c9bba3cb7b21.pdf",
+          "fileName": "2023-09-27 Special Meeting Agenda.pdf",
+          "attachmentType": "Agenda",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "44E0E777-383D-EE11-BDF4-001DD8097F7D",
+      "status": "Cancelled",
+      "bodyId": "08A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Immigrant and Refugee Rights",
+      "comment": "",
+      "bodyAbbreviation": "Immigrant Rights",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-09-27T14:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/25ad2968-f4b8-4597-a5d7-49378312e26b.pdf",
+          "fileName": "Agenda Meet and Hearing.Sep27.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/73734b30-641e-4dd9-8e8e-800fbcbc07e6.pdf",
+          "fileName": "Sept 27th Cancellation Immigrant_20230922161329.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0e3e6934-b7e9-462e-8c7a-60a5e20d9734.pdf",
+          "fileName": "230925-cancellation-CIRR.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "EEA95E7D-0F57-EE11-BE6E-001DD8098347",
+      "status": "Rescheduled",
+      "bodyId": "DE9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on License and Consumer Protection",
+      "comment": "Original meeting scheduled for September 27, 2023",
+      "bodyAbbreviation": "License",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/863710497",
+      "transcriptLink": "",
+      "date": "2023-09-26T17:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3c445404-7c10-461a-96b3-2c1ad350281c.pdf",
+          "fileName": "Agenda.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ad9fbf47-66eb-459b-8e76-6bf91dcf4aa1.pdf",
+          "fileName": "REVISED NOTICE of meeting.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0502a92b-44e2-4987-ba9c-c04798d0f9ec.pdf",
+          "fileName": "Original Notice License.pdf",
+          "attachmentType": "Other",
+          "sort": 50
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/06791895-4c50-4ef2-899d-c76c84d04342.pdf",
+          "fileName": "2023-October 4 Summary.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "194638B3-4959-EE11-BE6E-001DD8098482",
+      "status": "Scheduled",
+      "bodyId": "FF9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Health and Human Relations",
+      "comment": "",
+      "bodyAbbreviation": "Health",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/867330999",
+      "transcriptLink": "",
+      "date": "2023-09-26T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/476677d5-53c6-43ae-99cf-ced7f0b4ba84.pdf",
+          "fileName": "CHHRNotice9_26_23.docx.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/26ed7a65-0380-4b78-baa9-a78de67cee93.pdf",
+          "fileName": "CHHRAgenda9_26_23.docx.pdf",
+          "attachmentType": "Agenda",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "BAEFAD22-3C56-EE11-BE6E-001DD8098532",
+      "status": "Cancelled",
+      "bodyId": "85D57788-88FD-ED11-8847-001DD806815C",
+      "body": "Committee on Police and Fire",
+      "comment": "",
+      "bodyAbbreviation": "Police and Fire",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-09-25T16:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a3a417bb-367f-4f08-aade-f8d37c815438.pdf",
+          "fileName": "Commnotice9.18.23.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3d267cc9-5844-490a-8271-40d2ebc79af0.pdf",
+          "fileName": "Cancellation Notice.pdf",
+          "attachmentType": "Other",
+          "sort": 100
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1db56755-4ebb-429f-bc99-c211abb31c70.pdf",
+          "fileName": "Committee on Police and Fire Agenda 9.25.23.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "C16F0D19-1957-EE11-BE6E-001DD8098482",
+      "status": "Scheduled",
+      "bodyId": "85D57788-88FD-ED11-8847-001DD806815C",
+      "body": "Committee on Police and Fire",
+      "comment": "",
+      "bodyAbbreviation": "Police and Fire",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/866448120?share=copy",
+      "transcriptLink": "",
+      "date": "2023-09-22T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/db18ce8e-7b4f-4da9-a296-3cf5876dc32d.pdf",
+          "fileName": "Committee on Police and Fire Agenda 9.22.23.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e8781f0c-bb4e-47dd-8a3f-f9e250405e2f.pdf",
+          "fileName": "Notice of Meeting 9.22.2023.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/72df6027-3f55-41b5-b2ae-3008bc833a6b.pdf",
+          "fileName": "9.22.23summary.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "A831FC53-CB50-EE11-BE6E-001DD8097692",
+      "status": "Scheduled",
+      "bodyId": "03A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Workforce Development",
+      "comment": "Written public comment deadline September 19, 2023",
+      "bodyAbbreviation": "Workforce Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/864559828",
+      "transcriptLink": "",
+      "date": "2023-09-20T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/12b1ac9d-80c8-4d9d-8e5b-ee513d4ccf29.pdf",
+          "fileName": "Workforce September 20th 2023 Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7824ebfe-4f88-42e7-bfdc-282810ea39a8.docx",
+          "fileName": "Workforce September 20th 2023 Agenda.docx",
+          "attachmentType": "Agenda",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ee9dac3e-4bb3-4ce6-8919-cfb288950bc1.pdf",
+          "fileName": "Workforce September 20th 2023 Agenda.pdf",
+          "attachmentType": "Agenda",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "DCE29F3E-5452-EE11-BE6E-001DD8097692",
+      "status": "Reconvened",
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "From September 13, 2023",
+      "bodyAbbreviation": "City Council",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/864032014",
+      "transcriptLink": "",
+      "date": "2023-09-14T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d2f7bf27-abd5-4f4d-bbf7-feb93f37b817.pdf",
+          "fileName": "2023-09-14 City Council Agenda RECONVENED 1.pdf",
+          "attachmentType": "Agenda",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "AA6D883B-7526-EE11-9965-001DD804E11C",
+      "status": "Recessed",
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "To reconvene on September 14, 2023 at 10:00 A.M.",
+      "bodyAbbreviation": "City Council",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/6277394/video/863742655",
+      "transcriptLink": "",
+      "date": "2023-09-13T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1e114e34-b239-459f-a57b-07125c640150.pdf",
+          "fileName": "9-13-2023 Public Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 13
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/6cf07f14-3d7d-402d-8a1b-75e6098bd78c.pdf",
+          "fileName": "2023-09-13 Council Agenda Draft3.pdf",
+          "attachmentType": "Agenda",
+          "sort": 15
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0C5FB92F-0E4C-EE11-BE6D-001DD8097665",
+      "status": "Scheduled",
+      "bodyId": "D39FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Budget and Government Operations",
+      "comment": "",
+      "bodyAbbreviation": "Budget",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8925576/video/863674579",
+      "transcriptLink": "",
+      "date": "2023-09-12T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/95c71ae5-cedc-46a8-9923-02eba5a336b6.pdf",
+          "fileName": "CBGO.SummaryReports.20230912.pdf",
+          "attachmentType": "Summary",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7ac67d0a-45dc-4190-9040-67261dbed5e8.pdf",
+          "fileName": "CBGO.Notice20230912.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/22a00a78-fb98-4429-bafd-2653481c599b.pdf",
+          "fileName": "CBGO.Agenda20230912.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "68C6916B-344C-EE11-BE6D-001DD80974AF",
+      "status": "Scheduled",
+      "bodyId": "D59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Economic, Capital and Technology Development",
+      "comment": "Written public comment deadline September 8, 2023; 12:00 PM",
+      "bodyAbbreviation": "Economic Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/862124334",
+      "transcriptLink": "",
+      "date": "2023-09-12T18:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a5567d22-0b8b-47a7-8fc9-13d8d4bca40f.pdf",
+          "fileName": "09_12_2023 - ECTD AGENDA.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1b59ccc8-d820-4422-8a91-e58503b00627.pdf",
+          "fileName": "ECTD MTG. NOTICE 9-12-23.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "CCE202F4-472A-EE11-9965-001DD809C0A9",
+      "status": "Scheduled",
+      "bodyId": "ED9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Zoning, Landmarks and Building Standards",
+      "comment": "",
+      "bodyAbbreviation": "Zoning",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/863294875",
+      "transcriptLink": "",
+      "date": "2023-09-12T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3352061e-2105-4436-a8ac-95f4e6eea188.pdf",
+          "fileName": "Regular AgendaSeptember 12, 2023.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3e6812b2-b5bf-4370-b772-0e89f7778955.pdf",
+          "fileName": "SUM 9-12-23.pdf",
+          "attachmentType": "Summary",
+          "sort": 25
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/713ca839-b6b7-45bd-b53b-44b85871be95.pdf",
+          "fileName": "ADDENDUM to Agenda.SEPT 12.sep8.pdf",
+          "attachmentType": "Agenda",
+          "sort": 22
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/938714ca-44d7-4cf7-af17-1860ddd1f75d.pdf",
+          "fileName": "DEFERRED AGENDA SEPTEMBER 12.pdf",
+          "attachmentType": "Agenda",
+          "sort": 23
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3d33de6f-291a-48e7-afa5-c2362661d028.pdf",
+          "fileName": "Zoning Committee Notice.Sept 12.Jul 24.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "8D87BDEC-E42F-EE11-BDF4-001DD8049DF0",
+      "status": "Scheduled",
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "",
+      "bodyAbbreviation": "Finance",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/862057932",
+      "transcriptLink": "",
+      "date": "2023-09-11T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8d75808d-e3a5-4003-9cf7-aeb3dfe9a06e.pdf",
+          "fileName": "CoF NOTICE 091123 Final.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/97bdf69d-d928-49d9-a937-8f7a2c10b363.pdf",
+          "fileName": "Finance Agenda.sep11.sep7.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0924fb5f-780e-480f-a287-fc875574f37f.pdf",
+          "fileName": "1st Revised MEETING SUMMARY 091323.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8a08ae39-ee3f-4595-8566-d24fbf5f120e.pdf",
+          "fileName": "ORIGINAL SUMMARY.Sep 11.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "02AB78A5-1B36-EE11-BDF4-001DD8301521",
+      "status": "Cancelled",
+      "bodyId": "85D57788-88FD-ED11-8847-001DD806815C",
+      "body": "Committee on Police and Fire",
+      "comment": "",
+      "bodyAbbreviation": "Police and Fire",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-09-08T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1d340264-8b65-464e-b67d-9172aa7dbfeb.pdf",
+          "fileName": "Cancellation Notice- Sept 8th 2023.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/53baf73a-77eb-4507-91d9-f8cf6bcd9d00.pdf",
+          "fileName": "Amended Notice of Meeting.pdf",
+          "attachmentType": "Other",
+          "sort": 100
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f3b5fdad-d29d-4359-98f2-ab8be536248e.pdf",
+          "fileName": "Agenda Police and Fire.sept8.aug31_20230831160536.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8aeebf46-25fc-4344-ba2d-22fe3d6fe257.pdf",
+          "fileName": "A2023-0003864.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/aa966705-692d-474a-a6f6-793682b5b5fa.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": 100
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "E053920B-B62F-EE11-BDF4-001DD8049546",
+      "status": "Rescheduled",
+      "bodyId": "E09FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Transportation and Public Way",
+      "comment": "Change of location",
+      "bodyAbbreviation": "Transportation",
+      "location": "Room 201A, 2nd Fl, City Hall, 121 N. LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928551/video/861775690",
+      "transcriptLink": "",
+      "date": "2023-09-07T17:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/bac3d1ad-23b6-4c16-b4a2-47a7e2f687de.pdf",
+          "fileName": "REVISED NOTICE.Aug30 for Sept 7.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/97d2bb7c-be15-4d72-8d20-cc5ff0947ac4.pdf",
+          "fileName": "Original Notice of July 31.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4f58b248-f94e-4977-a170-58cdd9179b70.pdf",
+          "fileName": "Meeting-Agenda-09_07_2023.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/fabac56a-3505-47a7-8c3b-1970404f3c88.pdf",
+          "fileName": "SUMMARY-Sep 07, 2023.sep11.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "6F77F61C-EA41-EE11-BDF3-001DD80974AF",
+      "status": "Scheduled",
+      "bodyId": "03A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Workforce Development",
+      "comment": "Written public comment deadline: 10 AM, Wed Sept 6th",
+      "bodyAbbreviation": "Workforce Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928568/video/861851119",
+      "transcriptLink": "",
+      "date": "2023-09-07T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/526f2255-f23c-4120-8e9e-c030a682f7dd.docx",
+          "fileName": "Sep 7 WORKFORCE AGENDA.docx",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/fbf50193-1e4f-4141-ab83-81fd109787a9.pdf",
+          "fileName": "Sep 7 WORKFORCE AGENDA.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dd18bd68-3bc4-4be0-a06a-5a55d910238a.pdf",
+          "fileName": "Workforce 9-7-23.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a6db842a-249e-4f12-b0be-9e7a6905311f.pdf",
+          "fileName": "SUMMARY.Sept 7.Sept 8.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "656FD4F3-9A3B-EE11-BDF4-001DD8097F7D",
+      "status": "Scheduled",
+      "bodyId": "E49FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Education and Child Development",
+      "comment": "",
+      "bodyAbbreviation": "Education",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928507/video/861753859",
+      "transcriptLink": "",
+      "date": "2023-09-06T22:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7d9fa81b-8bc2-40a3-94f2-4023499e57da.pdf",
+          "fileName": "Education Agenda 9-6-23.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b5d5f7c1-b944-4250-a72c-7226822701e3.pdf",
+          "fileName": "Education Notice 9-6-23.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "6A02E5FD-1632-EE11-BDF4-001DD8049DF0",
+      "status": "Scheduled",
+      "bodyId": "E99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Pedestrian and Traffic Safety",
+      "comment": "Direct introduction deadline August 24, 2023 at 5:00 PM",
+      "bodyAbbreviation": "Traffic",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928552/video/861745839",
+      "transcriptLink": "",
+      "date": "2023-09-06T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b2872610-55f3-4b1a-bc61-5f80cdfed65a.pdf",
+          "fileName": "SEPT P&TS MTG NOTICE.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5155d820-33ed-4020-b02f-89951b52d8d5.docx",
+          "fileName": "SEPT P&TS MTG NOTICE.docx",
+          "attachmentType": "Notice",
+          "sort": 11
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a71bf8ad-f5c5-4702-9ebe-20ca7c744e05.pdf",
+          "fileName": "Original Agenda.Aug 31.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/99528806-18c5-47b6-8ea8-b5df07e2b04c.pdf",
+          "fileName": "P&TS Committee 1st Revised Agenda - SEPT 6 2023 (3).pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/69d01d9a-b2b9-4b25-aed7-73711a2218d2.pdf",
+          "fileName": "SEPT 6 P&TS Summary Report.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "9304DF01-EA36-EE11-BDF4-001DD8301D71",
+      "status": "Scheduled",
+      "bodyId": "DE9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on License and Consumer Protection",
+      "comment": "",
+      "bodyAbbreviation": "License",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928556/video/861712669",
+      "transcriptLink": "",
+      "date": "2023-09-06T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d6006c54-0f2e-4b23-8edb-bfbecd57fb3c.pdf",
+          "fileName": "License Agenda.September 6.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f2b60127-fb15-4167-8df1-840e339de5e5.pdf",
+          "fileName": "License Summary.Sep7.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/13ffa8ac-b69e-421a-bbd9-f73a5973e1dd.pdf",
+          "fileName": "Notice License Sept 6.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0C0FE639-E048-EE11-BE6D-001DD8097665",
+      "status": "Scheduled",
+      "bodyId": "F59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Committees and Rules",
+      "comment": "",
+      "bodyAbbreviation": "Rules",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928500/video/861734397",
+      "transcriptLink": "",
+      "date": "2023-09-06T17:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/06308ab6-996b-40c3-9624-76de8954293d.pdf",
+          "fileName": "9.6.23 Rules Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/84d03531-bb41-4bd1-ad37-5c2755ba8715.pdf",
+          "fileName": "9.6.23 RULES AGENDA.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b624b5f6-a0b2-40dd-aeef-17cf8ea73b31.pdf",
+          "fileName": "9.13.23  Meeting Summary Report.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0450E774-B442-EE11-BDF3-001DD80974AF",
+      "status": "Scheduled",
+      "bodyId": "FD9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Environmental Protection and Energy",
+      "comment": "",
+      "bodyAbbreviation": "Environment",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928545/video/861382788",
+      "transcriptLink": "",
+      "date": "2023-09-06T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5ae74b71-4c50-4f76-bfef-92fda84e409a.pdf",
+          "fileName": "SEPTEMBER EP&E AGENDA.docx (1).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/618acf3e-5626-45b5-a201-52eff5bfed61.pdf",
+          "fileName": "EP&E SUMMARY.SEP6.sep11.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3fcdfbc8-b1cf-4a1b-9cc4-c568b1181e5d.pdf",
+          "fileName": "SEPTEMBER EP&E MTG NOTICE.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0122A030-622A-EE11-9965-001DD809C0A9",
+      "status": "Scheduled",
+      "bodyId": "D59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Economic, Capital and Technology Development",
+      "comment": "",
+      "bodyAbbreviation": "Economic Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928495/video/859075237",
+      "transcriptLink": "",
+      "date": "2023-09-05T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/885f8e40-2d48-433f-9446-5032f2a32cda.pdf",
+          "fileName": "ECTD SUMMARY OF REPORTS 9-5-23.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/02399dbc-d65d-4297-aeba-20e2da43cad7.pdf",
+          "fileName": "ECTD Original Agenda Sept 5.pdf",
+          "attachmentType": "Other",
+          "sort": 100
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/be4e9057-045d-4adc-b882-7f1eca48383a.pdf",
+          "fileName": "SOr2020-232.pdf",
+          "attachmentType": "Other",
+          "sort": 101
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ea560def-ee2a-4820-a5cf-57f28aa951ce.pdf",
+          "fileName": "ECTD First Revised Agenda Sep 5.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/49b7a9dd-34bf-46cc-a904-0a7e9f0076cc.pdf",
+          "fileName": "City-of-Chicago-IT-Assessment-and-Strategic-Plan.pdf",
+          "attachmentType": "Report",
+          "sort": 40
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7d78132e-86c9-4a76-8595-0128fbdac0e2.pdf",
+          "fileName": "Economic Notice.Sept 5.jul24.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0DEC14F9-C32F-EE11-BDF4-001DD8049DF0",
+      "status": "Cancelled",
+      "bodyId": "F79FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Ethics and Government Oversight",
+      "comment": "Meeting and Subject Matter Hearing Cancelled",
+      "bodyAbbreviation": "Ethics",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-09-05T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/55012817-307e-4e8f-a7d2-4868e2a5d5bf.pdf",
+          "fileName": "9_5_23 Ethics Committee Agenda Final.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/866bbf8e-1827-4f3e-a315-a92dd09f11d3.pdf",
+          "fileName": "September Meeting Cancellation Ethics Committee (1).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2ea183eb-0e8b-44b6-a332-e2a37afbd092.pdf",
+          "fileName": "Original  Notice..pdf",
+          "attachmentType": "Other",
+          "sort": 100
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "17B7ECC6-9530-EE11-BDF4-001DD8049546",
+      "status": "Scheduled",
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "Subject Matter Hearing on R2023-775/R2023-0002234 with Department of Water and Department of Finance. NO VOTE.\nPublic written comment deadline: August 28, 2023",
+      "bodyAbbreviation": "Finance",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "",
+      "transcriptLink": "",
+      "date": "2023-08-29T14:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0a3affda-3589-4c96-aa99-134d0840c75b.pdf",
+          "fileName": "Revised Agenda",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/737ae37b-0326-4d3c-a3f1-5008ec37e365.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": 100
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f42ad2a0-8275-4b56-9f25-fd444ef2c7d0.pdf",
+          "fileName": "Revised Notice",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2334a605-e9e3-4d53-ad5e-722f90a9eb3f.pdf",
+          "fileName": "Original Agenda",
+          "attachmentType": "Other",
+          "sort": 110
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7a845184-a79b-4b86-af1f-c3644ae25f97.pdf",
+          "fileName": "1st Revised MEETING SUMMARY Aug 29 and Sept 11 2023.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "6736750B-3D40-EE11-BDF3-001DD80974AF",
+      "status": "Scheduled",
+      "bodyId": "DB9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Housing and Real Estate",
+      "comment": "",
+      "bodyAbbreviation": "Housing",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/849266716",
+      "transcriptLink": "",
+      "date": "2023-08-28T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/922ad13c-4b1f-4647-81a1-895744e7ba4d.pdf",
+          "fileName": "HRE NOTICE 28AUG23.pdf",
+          "attachmentType": "Notice",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/df4a13f0-0f16-4e15-af54-8d7e53703a75.pdf",
+          "fileName": "HRE AGENDA 28AUG23.pdf",
+          "attachmentType": "Agenda",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2d30417a-195a-4075-9c14-5ad15ee2184a.pdf",
+          "fileName": "HRE AMENDED SUMMARY 28AUG23 (1).pdf",
+          "attachmentType": "Summary",
+          "sort": 0
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5fd96669-e9f8-4ce2-8f25-6d3bbca8146b.pdf",
+          "fileName": "HRE SUMMARY 28AUG23.pdf",
+          "attachmentType": "Summary",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "CF67A9C9-2E27-EE11-9965-001DD804E9A5",
+      "status": "Scheduled",
+      "bodyId": "DB9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Housing and Real Estate",
+      "comment": "Subject Matter Hearing on increasing real estate transfer tax to provide permanent housing and services of maintenance to homeless  NO VOTE TO BE TAKEN",
+      "bodyAbbreviation": "Housing",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928563/video/848825166",
+      "transcriptLink": "",
+      "date": "2023-07-27T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/19830d9d-8f72-4232-b40d-3bebda56f7df.pdf",
+          "fileName": "HRE AGENDA 27JUL23.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7676cec1-f8d4-47ef-a58e-a9a4045fa8db.pdf",
+          "fileName": "Transfer tax & Housing Hearing.jul27.jul20.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/75bcaa1b-649d-4e9e-a86d-f421187f10c2.pdf",
+          "fileName": "HRE SUMMARY 27JUL23.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "51BBDC17-9F25-EE11-9CBD-001DD804E144",
+      "status": "Scheduled",
+      "bodyId": "08A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Immigrant and Refugee Rights",
+      "comment": "",
+      "bodyAbbreviation": "Immigrant and Refugee Rights",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928487/video/848101047",
+      "transcriptLink": "",
+      "date": "2023-07-26T14:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/362933f8-c17b-49ec-ad0d-5cfe8c6a2392.pdf",
+          "fileName": "Original Notice Immigrant.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c579a1b1-c966-49f0-9df8-591409c40933.pdf",
+          "fileName": "Original Agenda Immigrant.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8a20fced-1813-4d0f-9d2c-0214fb4bd54e.pdf",
+          "fileName": "Revised Agenda Immigrant.Jul 26.jul24.pdf",
+          "attachmentType": "Agenda",
+          "sort": 22
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/fc522a4f-fc32-4f2a-b294-577e4956c6ad.pdf",
+          "fileName": "CIRR_summary_072623.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c2ff9e2d-c7eb-4682-bf85-c7866b19a18e.pdf",
+          "fileName": "Revised Notice Jul 26.jul24.pdf",
+          "attachmentType": "Notice",
+          "sort": 12
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8da475af-408a-49dd-940a-4f6d591d8063.pdf",
+          "fileName": "CIRR_supplemental-docs_072623.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "3830979E-8026-EE11-9965-001DD804E9A5",
+      "status": "Scheduled",
+      "bodyId": "FF9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Health and Human Relations",
+      "comment": "Subject Matter Hearing on R2023-0002929. A VOTE WILL BE TAKEN.",
+      "bodyAbbreviation": "Health",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/846725745",
+      "transcriptLink": "",
+      "date": "2023-07-24T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8a13c481-9b6b-4796-afca-9e425b39c1bd.pdf",
+          "fileName": "REVISED Health Notice.jul24.jul20.pdf",
+          "attachmentType": "Notice",
+          "sort": 12
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/adf63886-f60e-4239-a940-b20f16cf204c.pdf",
+          "fileName": "Original Health Notice&Agenda.july 24.jul19.pdf",
+          "attachmentType": "Notice",
+          "sort": 13
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/6b05dcc0-487a-428d-9d92-d8b94bcb29ee.pdf",
+          "fileName": "REVISED Health Agenda.jul24.jul20.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/cbd5663f-e0da-4d4b-9a2d-32e04293c869.pdf",
+          "fileName": "SummaryofReports_CHHR_July242023.pdf",
+          "attachmentType": "Summary",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "8317E7A5-6610-EE11-8F6C-001DD806D2E1",
+      "status": "Scheduled",
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "",
+      "bodyAbbreviation": "City Council",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/6277394/video/846407087",
+      "transcriptLink": "",
+      "date": "2023-07-19T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5ee2d324-c24c-4a00-a31f-51792d6e24a9.pdf",
+          "fileName": "2023-07-19 City Council Agenda Draft1.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/06d91657-d3ae-49fd-a2a5-f10c14390275.pdf",
+          "fileName": "7-19-2023 Public Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "C0D2E266-2220-EE11-8F6C-001DD809BD75",
+      "status": "Scheduled",
+      "bodyId": "D39FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Budget and Government Operations",
+      "comment": "",
+      "bodyAbbreviation": "Budget",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8925576/video/846345411",
+      "transcriptLink": "",
+      "date": "2023-07-18T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5ffe1385-e27f-4cbc-be93-8e9c15343a83.pdf",
+          "fileName": "CBGOSummaryofReports.18July2023.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7a76196b-adf4-478b-8077-9da004bb1cb1.pdf",
+          "fileName": "Original Agenda (57).pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4a7a6fa9-0d38-47fe-97f0-0917410eb63a.pdf",
+          "fileName": "Revised Agenda.jul14.jul18.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0571c9b6-e7fd-4252-aa28-b0b55370e930.pdf",
+          "fileName": "Notice.Budget.Jul18.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "152D0596-E111-EE11-8F6C-001DD806D641",
+      "status": "Scheduled",
+      "bodyId": "ED9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Zoning, Landmarks and Building Standards",
+      "comment": "",
+      "bodyAbbreviation": "Zoning",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928576/video/846030144",
+      "transcriptLink": "",
+      "date": "2023-07-18T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f8cd2abb-cc8e-4ff9-b55f-04eb3e30bb34.pdf",
+          "fileName": "SUM 7-18-23.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3096cb71-e38e-48ea-b4f9-3337a2ac277a.pdf",
+          "fileName": "Original Agenda.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b9c6b9ae-d90a-443f-92ab-2dbeb1aa4ccb.pdf",
+          "fileName": "Notice Zoning.Jul18.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0c59b333-1a8d-40ca-890b-90fe5c6dc036.pdf",
+          "fileName": "Amended Agenda Agenda 7-18-23 .pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/36895e62-395d-46bc-8ef5-a8772331912c.pdf",
+          "fileName": "First AddendumtoAgenda.Jul14.pdf",
+          "attachmentType": "Agenda",
+          "sort": 22
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/82380480-4988-41a8-9d25-051f30bec802.pdf",
+          "fileName": "DeferredAgendaZoningJul 14.pdf",
+          "attachmentType": "Agenda",
+          "sort": 23
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "F99AB584-F615-EE11-8F6D-001DD806FC17",
+      "status": "Scheduled",
+      "bodyId": "03A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Workforce Development",
+      "comment": "",
+      "bodyAbbreviation": "Workforce Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/845365637",
+      "transcriptLink": "",
+      "date": "2023-07-17T18:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e4f4371c-9822-4b5f-a3b0-a4365eba0556.pdf",
+          "fileName": "Workforce Summary.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/79894118-c794-4685-a311-acec8f68bd4d.pdf",
+          "fileName": "Cmte on Workforce Dev July 17th 2023 Meeting Notice (1).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/19859534-ccf7-4ddb-b096-841325328a6e.pdf",
+          "fileName": "OriginalAgendaWorkforce.jul17.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a49d6777-7776-4a79-a957-e6225816d81b.pdf",
+          "fileName": "RevisedAgendaWorkforce.jul17.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "996C7560-D011-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "",
+      "bodyAbbreviation": "Finance",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/845350649",
+      "transcriptLink": "",
+      "date": "2023-07-17T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dd771149-a9e1-4d1c-be32-b0e42d30bc37.pdf",
+          "fileName": "3522_001.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/edb1ac1f-c725-46bf-8989-f41d5154197a.pdf",
+          "fileName": "Notice Finance.jul17.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f9cc1887-5688-411d-920e-13b93896fc51.pdf",
+          "fileName": "Agenda FINANCE.jul17.jul_20230713094508.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d9697c75-4c7d-4996-9855-da2b5e3b30cd.pdf",
+          "fileName": "Finance Amended Agenda 07-17-2023.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "F91FA113-341C-EE11-8F6D-001DD806F949",
+      "status": "Scheduled",
+      "bodyId": "FA9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Contracting Oversight and Equity",
+      "comment": "",
+      "bodyAbbreviation": "Contracting Oversight",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/845038673",
+      "transcriptLink": "",
+      "date": "2023-07-14T17:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/551512fd-fc57-4a5b-838e-070b7a100efb.pdf",
+          "fileName": "SUMMARY 7-19-2023.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/530c40db-f87d-4bcd-853a-52fd69958703.pdf",
+          "fileName": "Contracting Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/6d6c4c27-0633-428b-ab67-380feb31f99a.pdf",
+          "fileName": "Amended Agenda.Jul14.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0cd82ae1-a212-446a-8d84-d3eacb2b65da.pdf",
+          "fileName": "Original Agenda.Jul14.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "10535BAF-3A14-EE11-8F6D-001DD806F9D9",
+      "status": "Scheduled",
+      "bodyId": "E99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Pedestrian and Traffic Safety",
+      "comment": "Direct Introduction deadline - Fri July 7, 2023 at 5 PM",
+      "bodyAbbreviation": "Traffic",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928552/video/845057227",
+      "transcriptLink": "",
+      "date": "2023-07-14T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/479d3b35-c93d-4180-9b21-a55b0a679974.pdf",
+          "fileName": "P&TS.Summary.jul14.jul17.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/32310d2e-cb5b-4494-9039-ee39bdc56dd9.pdf",
+          "fileName": "JULY P&TS MTG NOTICE.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5f91c3a4-d9c0-4390-b843-66b5fa31816a.pdf",
+          "fileName": "P&TS Committee FINAL AGENDA JULY 2023 nh.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "A0219F20-C016-EE11-8F6D-001DD806F88B",
+      "status": "Scheduled",
+      "bodyId": "DE9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on License and Consumer Protection",
+      "comment": "",
+      "bodyAbbreviation": "License",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928556/video/845012972",
+      "transcriptLink": "",
+      "date": "2023-07-13T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e2c9d916-61be-44ea-99ee-a3adb80a2403.pdf",
+          "fileName": "2023-July 13 Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/78a8da2c-22e1-42ed-9a3a-30824c68da7a.pdf",
+          "fileName": "2023-July 13 Agenda.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f347385e-8af6-4782-aa0f-336d838e3526.pdf",
+          "fileName": "Summary License.jul13.jul19.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "FAFC5771-C711-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "E09FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Transportation and Public Way",
+      "comment": "",
+      "bodyAbbreviation": "Transportation",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928551/video/844013205",
+      "transcriptLink": "",
+      "date": "2023-07-13T16:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/06fdc685-4a5c-4695-9a6d-3df700dd5e1b.pdf",
+          "fileName": "Transport Agenda.jul13.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2118a440-1c5d-4273-9aa3-9845fc12ef3d.pdf",
+          "fileName": "Original Not Trans.jul 13.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/89e008d0-6e96-4185-8dbc-149354c09238.pdf",
+          "fileName": "Transport Revised Not.Jul13.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d8ce5504-d002-429d-84f4-32d3c49735f2.pdf",
+          "fileName": "SummaryTransport.Jul13.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "8D07B858-F515-EE11-8F6D-001DD806FC17",
+      "status": "Scheduled",
+      "bodyId": "F79FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Ethics and Government Oversight",
+      "comment": "",
+      "bodyAbbreviation": "Ethics",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928512/video/844681949",
+      "transcriptLink": "",
+      "date": "2023-07-13T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1161337b-1f52-4b4b-b38f-f09d24a3c9aa.pdf",
+          "fileName": "Corrected Summary.jul18.jul19.pdf",
+          "attachmentType": "Summary",
+          "sort": 32
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e5b1dc9a-d538-4677-8a9f-c4169ad8dcf6.pdf",
+          "fileName": "7_17_2023 Meeting Notice Ethics Committee.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8e30583e-0223-43b4-91d5-190b1055330e.pdf",
+          "fileName": "7_13_2023 Meeting Agenda Ethics Committee.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "27C35FB3-231C-EE11-8F6D-001DD806F949",
+      "status": "Scheduled",
+      "bodyId": "FD9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Environmental Protection and Energy",
+      "comment": "",
+      "bodyAbbreviation": "Environment",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928545/video/844299013",
+      "transcriptLink": "",
+      "date": "2023-07-12T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b1207410-f044-4948-827e-db79522311ad.pdf",
+          "fileName": "JULY EP&E MTG NOTICE.docx (1).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a7b4a789-6148-4503-9369-c5b16fb48f56.pdf",
+          "fileName": "MEETING AGENDA - CMTE EP&E- JULY 12 2023.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7be00bc0-17a7-4db6-8824-b5efe04f262e.pdf",
+          "fileName": "EPE_Questions_to_ComEd_071123.pdf",
+          "attachmentType": "Report",
+          "sort": 40
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/6f12bc4f-a267-4696-9188-2e0cfb2ff0a1.pdf",
+          "fileName": "EPE Summary_7.12.23.docx.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e0524b19-5880-486c-902c-dbb3f58f9b7d.pdf",
+          "fileName": "CIA Briefing for the Committee on Envionmental Protection and Energy 071223 (1).pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "30BA0E3E-C715-EE11-8F6D-001DD806F871",
+      "status": "Scheduled",
+      "bodyId": "E29FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Public Safety",
+      "comment": "",
+      "bodyAbbreviation": "Public Safety",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928579/video/843946413",
+      "transcriptLink": "",
+      "date": "2023-07-11T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/db3de37a-8833-4119-b894-51bba7baaee1.pdf",
+          "fileName": "20230628101858384.pdf",
+          "attachmentType": "Notice",
+          "sort": 12
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0b8b14b4-19e2-4a0e-a67e-28d73b5c47e9.pdf",
+          "fileName": "Public Safety Agenda July 11, 2023.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a06eb3e8-a659-4609-99c3-6de88b5bbc1a.pdf",
+          "fileName": "20230712125241511.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "2F976B69-A115-EE11-8F6D-001DD806F88B",
+      "status": "Scheduled",
+      "bodyId": "DB9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Housing and Real Estate",
+      "comment": "Public Comment deadline: Friday, July 7, 2023",
+      "bodyAbbreviation": "Housing",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928563/video/838069360",
+      "transcriptLink": "",
+      "date": "2023-07-10T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/dda33f44-e17d-440f-8452-34ac81ee0dfe.pdf",
+          "fileName": "CMTY H&RE NOTICE JUL23.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/fa16f3ee-8b26-409f-9788-66cbfe964191.pdf",
+          "fileName": "HRE SUMMARY 10JUL23.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ba7ee6e5-0176-4b86-9677-efd1658ec7ba.pdf",
+          "fileName": "Original Agenda.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c9c5f9d3-1518-4862-b3de-61c58b6115f6.pdf",
+          "fileName": "Revised Agenda 7-10-23.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "606065D9-A915-EE11-8F6D-001DD806F9D9",
+      "status": "Scheduled",
+      "bodyId": "D59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Economic, Capital and Technology Development",
+      "comment": "Public Comment deadline July 7, 2023",
+      "bodyAbbreviation": "Economic Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928495/video/840562340",
+      "transcriptLink": "",
+      "date": "2023-07-10T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e0994e25-b348-4101-bdf8-aa72dc0874fd.pdf",
+          "fileName": "Summary ECON jul10.jul17.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/91708389-0bbb-4aa0-ac78-f1fe97fc5369.pdf",
+          "fileName": "7_10_23 - ECTD NOTICE (1).pdf",
+          "attachmentType": "Notice",
+          "sort": 14
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/894cd58c-ea75-40a4-89b5-3be284fd312d.pdf",
+          "fileName": "ECTD - Second Amended Agenda July 10, 2023.pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4830e4a4-58ef-423a-8ca6-f1a8bf42625e.pdf",
+          "fileName": "ECTD - First Amended Agenda July 10, 2023.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/34d34954-e1e9-48e1-be87-b90d8a4b3e80.pdf",
+          "fileName": "Original-ECTD Agenda July 10, 2023.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "D9CE8C9F-FD10-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "08A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Immigrant and Refugee Rights",
+      "comment": "",
+      "bodyAbbreviation": "Immigrant and Refugee Rights",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928487/video/838421968",
+      "transcriptLink": "",
+      "date": "2023-06-28T16:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/44cad276-a46a-48ea-acf1-c89b4e50995b.pdf",
+          "fileName": "June 28 CIRR Meeting Notice.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b6e387bd-2e44-4068-938f-cf8de964efa4.pdf",
+          "fileName": "Supplemental Documents CIRR 6-28-23 Title Page-merged.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1ac3b98c-caad-4919-aba8-16899a2f12a3.pdf",
+          "fileName": "CIRR 6-28 Agenda of Matters.pdf",
+          "attachmentType": "Other",
+          "sort": 99
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/eeb41efe-329f-4c6a-ace4-67f9348de31e.pdf",
+          "fileName": "CIRR 6-28 Revised Agenda of Matters.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/df9fd8c1-3341-4bb0-aa3c-1140159c6a59.pdf",
+          "fileName": "CIRR 6-28 Revised Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 13
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/16833bdd-bf59-40fd-9d9d-56241f4425d3.pdf",
+          "fileName": "Summary of Reports CIRR 6-28-23.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "3673BD4C-4F09-EE11-8F6D-001DD809B965",
+      "status": "Scheduled",
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "",
+      "bodyAbbreviation": "City Council",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/6277394/video/838032018",
+      "transcriptLink": "",
+      "date": "2023-06-21T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/adc6adf8-b4b2-4cee-b404-462a8ca02b03.pdf",
+          "fileName": "08a1 Matters.pdf",
+          "attachmentType": "Notice",
+          "sort": 12
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/57d7ee34-3531-4513-a273-ab7090e8e7ae.pdf",
+          "fileName": "6-21-2023 Public Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 11
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/36d6039f-030c-4ba0-abac-df70e08f0a63.pdf",
+          "fileName": "Agenda (2).pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "6D8801DE-6D0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "D39FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Budget and Government Operations",
+      "comment": "",
+      "bodyAbbreviation": "Budget",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8925576/video/836661928",
+      "transcriptLink": "",
+      "date": "2023-06-20T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f927cf6d-4ee6-46d4-a2b7-2fff9b109b74.pdf",
+          "fileName": "Agenda (7).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e4706a2f-b9e6-4a14-9513-6f421a2d9abf.pdf",
+          "fileName": "CBGOSummaryofReports.20June2023.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4b0ea156-7eba-4647-a673-9f1062297ef5.pdf",
+          "fileName": "Notice (7).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "BDD157A4-740C-EE11-8F6D-001DD809B903",
+      "status": "Scheduled",
+      "bodyId": "ED9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Zoning, Landmarks and Building Standards",
+      "comment": "",
+      "bodyAbbreviation": "Zoning",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928576/video/836633043",
+      "transcriptLink": "",
+      "date": "2023-06-20T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/9e1d8103-ca63-49f5-b80d-3d5a7c76ff2f.pdf",
+          "fileName": "SUM 6-20-23 .pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/40186702-6764-4937-907c-80a3fc26f3a1.pdf",
+          "fileName": "DEFERRED AGENDA JUNE 2023 .pdf",
+          "attachmentType": "Agenda",
+          "sort": 23
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/902b1044-7e83-47ef-8dfc-df2640f0561f.pdf",
+          "fileName": "Amended Addendum to Deferred Agenda (7).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b16479a1-8cc9-4da6-8c39-b88a70013e68.pdf",
+          "fileName": "Addendum to DEFERRED Agenda (8).pdf",
+          "attachmentType": "Agenda",
+          "sort": 21
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/52946017-dcf1-428c-8782-0b3a4197241b.pdf",
+          "fileName": "Notice - 2023-05-24T163704.325.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/89706d0d-c3a2-4fd0-b0cc-af660f96216c.pdf",
+          "fileName": "Agenda - 2023-06-12T115233.655.pdf",
+          "attachmentType": "Agenda",
+          "sort": 22
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "973900B4-6D0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "DE9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on License and Consumer Protection",
+      "comment": "",
+      "bodyAbbreviation": "License",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/836307694",
+      "transcriptLink": "",
+      "date": "2023-06-15T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/39d9aaa2-5013-4389-b644-3a17ca21d953.pdf",
+          "fileName": "Notice (6).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f980b2e1-08ad-420d-a2ed-db0a12b5c022.pdf",
+          "fileName": "Agenda (6).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/00ceffb2-cdca-4a8c-a295-b797906f3ba2.pdf",
+          "fileName": "Minutes (6).pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "15416D8F-6D0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "E69FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Special Events, Cultural Affairs and Recreation",
+      "comment": "",
+      "bodyAbbreviation": "Special Events",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/836263318",
+      "transcriptLink": "",
+      "date": "2023-06-15T17:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8b6554d5-a62f-4774-90f2-de4ea2b57608.pdf",
+          "fileName": "Notice (5).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/46963b04-c035-4d4d-acc6-0bc17f7e80a8.pdf",
+          "fileName": "Agenda (5).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f8a9c614-feea-43a6-9320-2daa8516d99c.pdf",
+          "fileName": "Summary Finance.jun15.pdf",
+          "attachmentType": "Summary",
+          "sort": 31
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "B3AC776B-6D0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "E99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Pedestrian and Traffic Safety",
+      "comment": "",
+      "bodyAbbreviation": "Traffic",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/835920010",
+      "transcriptLink": "",
+      "date": "2023-06-14T18:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/d432f066-2918-45c7-a05c-ebab4e04e086.pdf",
+          "fileName": "Agenda (4).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5896bb67-8109-4271-8efc-22551ead3f91.pdf",
+          "fileName": "Notice (4).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/959b0759-09e8-4a70-9ab0-8e01ae58201d.pdf",
+          "fileName": "Corrected Summary PedTraf.jun14.pdf",
+          "attachmentType": "Summary",
+          "sort": 0
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "FBEF7D3B-6D0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "",
+      "bodyAbbreviation": "Finance",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/835870320",
+      "transcriptLink": "",
+      "date": "2023-06-14T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a0845fe5-22f4-4aa4-831e-e8826407a095.pdf",
+          "fileName": "Notice (3).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ce15ce2b-c385-432e-9dd2-d6c1043d7d0a.pdf",
+          "fileName": "Agenda (3).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/9421e540-a7d1-442f-a60e-ff8fa6be93e0.pdf",
+          "fileName": "Minutes (3).pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "B1CC7917-6D0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "D59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Economic, Capital and Technology Development",
+      "comment": "",
+      "bodyAbbreviation": "Economic Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/835553151",
+      "transcriptLink": "",
+      "date": "2023-06-13T18:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e0592d17-092d-4767-bdc3-343611f15f0a.pdf",
+          "fileName": "Notice (2).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/12cdc89a-dae7-42a7-99f0-adcf07a682a4.pdf",
+          "fileName": "Agenda (2).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "C4277EE7-6C0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "E09FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Transportation and Public Way",
+      "comment": "",
+      "bodyAbbreviation": "Transportation",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/showcase/8928551/video/835533972",
+      "transcriptLink": "",
+      "date": "2023-06-13T16:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e08df33a-9eda-44b9-bdfb-4c2d0c39d004.pdf",
+          "fileName": "Notice (1).pdf",
+          "attachmentType": "Notice",
+          "sort": 12
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2f24ae91-a731-4309-9225-6d546c28de42.pdf",
+          "fileName": "Agenda (1).pdf",
+          "attachmentType": "Agenda",
+          "sort": 22
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c66b67cc-addc-4fab-8195-25ec9fc6b63c.pdf",
+          "fileName": "Summary Trans.jul13.pdf",
+          "attachmentType": "Summary",
+          "sort": 31
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "C0F866AB-6C0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "03A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Workforce Development",
+      "comment": "",
+      "bodyAbbreviation": "Workforce Development",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/831621595",
+      "transcriptLink": "",
+      "date": "2023-06-12T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4f7ff39a-2307-40ca-af95-58f1778d9dfd.pdf",
+          "fileName": "Notice.pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3553dc97-bb1e-4624-9b37-bf56cbc441df.pdf",
+          "fileName": "Agenda.pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c9a0a617-a749-41db-8fec-59e097609158.pdf",
+          "fileName": "Summary.pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "8E553B38-6C0F-EE11-8F6C-001DD806D3F2",
+      "status": "Scheduled",
+      "bodyId": "DB9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Housing and Real Estate",
+      "comment": "",
+      "bodyAbbreviation": "Housing",
+      "location": "City Council Chamber, 2nd Fl, City Hall, 121 N LaSalle St - Chicago, IL 60602",
+      "videoLink": "https://vimeo.com/manage/videos/831985709",
+      "transcriptLink": "",
+      "date": "2023-06-12T16:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/254b251f-b7aa-4de0-ab2e-631dc8891b20.pdf",
+          "fileName": "Minutes (3).pdf",
+          "attachmentType": "Summary",
+          "sort": 30
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8b52e6fc-3063-4b6a-a6f1-e10e32271f2e.pdf",
+          "fileName": "Notice (1).pdf",
+          "attachmentType": "Notice",
+          "sort": 10
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/3964e6bc-2fc4-416b-83b1-a445a99d58b8.pdf",
+          "fileName": "Agenda (4).pdf",
+          "attachmentType": "Agenda",
+          "sort": 20
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "B45ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": null,
+      "bodyAbbreviation": "City Council",
+      "location": "City Hall -- Council Chamber -- Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-05-31T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/25d67483-549e-413b-ae49-3b2f86e34b90.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/701f3b01-0c90-4675-9e8a-890b382fe05f.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "1AF1D423-5905-EE11-8F6D-001DD806E076",
+      "status": null,
+      "bodyId": "D39FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Budget and Government Operations",
+      "comment": null,
+      "bodyAbbreviation": "Budget",
+      "location": "City Hall - Council Chamber - Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-05-30T20:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/b28cb2d3-cf3d-4d9a-aacd-03f297e0e002.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/a528bf51-5bc9-4875-9cb2-bcfd800df0ce.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/bfd8ae23-7673-47be-ab42-c8d7512c0bf8.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "18F1D423-5905-EE11-8F6D-001DD806E076",
+      "status": null,
+      "bodyId": "DE9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on License and Consumer Protection",
+      "comment": null,
+      "bodyAbbreviation": "License",
+      "location": "Room 201A -- City Hall -- Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-05-30T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/a8e85afc-d7b3-4795-907b-373b29403dd6.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/4a9dabe4-efed-4fb8-8f69-7b7d143d85fa.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/8f896415-8a9a-4387-8689-baddfa12d370.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "B25ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "Cancelled",
+      "bodyAbbreviation": "Finance",
+      "location": "City Hall - Council Chamber - Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-05-30T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/ee7ea853-78a5-4cc8-9c26-f286b85612ab.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/c84271d4-ab75-4387-8f8a-0b73d1fb0e6a.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0A52FF86-2DF4-ED11-A7C6-001DD806AE67",
+      "status": null,
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "Reconvened Meeting from May 15, 2023",
+      "bodyAbbreviation": "City Council",
+      "location": "City Hall -- Council Chamber -- Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/6277394/video/825911217",
+      "transcriptLink": "",
+      "date": "2023-05-24T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/14bb5be6-0ec4-4f75-b310-138a77ced793.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/8e6dbed7-d542-4e18-b9d5-7be391d28a45.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0852FF86-2DF4-ED11-A7C6-001DD806AE67",
+      "status": null,
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "Inaugural Meeting - Recessed to Reconvene on May 24, 2023, 10:00 AM at City Hall - Council Chamber - Chicago, Illinois",
+      "bodyAbbreviation": "City Council",
+      "location": "Credit Union 1 Arena (UIC Pavilion), 525 S Racine Ave, Chicago, IL 60607",
+      "videoLink": "https://vimeo.com/showcase/6277394/video/826670252",
+      "transcriptLink": "",
+      "date": "2023-05-15T15:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/5e9d932c-d8a6-44c1-813e-979b7b9042a8.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/83351cbf-959f-4843-9fea-338a07b98b52.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "AA5ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "E99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Pedestrian and Traffic Safety",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Pedestrian and Traffic Safety",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928552/video/825503570",
+      "transcriptLink": "",
+      "date": "2023-05-11T16:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/ac865a91-7d4a-489f-80c0-d4883b71ab70.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/8604d9f0-68bd-41fd-9d5d-ffe6ab4c71b9.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/bdb899d1-7a69-44ef-a1f8-b18277db54b8.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/4e52b63c-7bc2-48b5-bbda-1154f2cdbc32.pdf",
+          "fileName": "Original Summary",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "AC5ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "DE9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on License and Consumer Protection",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "License",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928556/video/825210317",
+      "transcriptLink": "",
+      "date": "2023-05-10T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/0953f214-ad7f-417a-afcb-254e4221d009.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/ab1518a6-1db3-4421-bcc2-1ca25f1610df.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/37b2b6fd-c4d5-4dd7-a914-43f8576a19ea.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "B35ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "E69FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Special Events, Cultural Affairs and Recreation",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Special Events",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928541/video/825163607",
+      "transcriptLink": "",
+      "date": "2023-05-10T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/f5760b45-cd5d-4d45-936f-325af0e9da48.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/0eca1e45-4de4-4896-a874-42ee938abea0.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/dd95adb5-d38f-476c-b101-a2160fc3d173.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "AB5ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "D39FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Budget and Government Operations",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Budget",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8925576/video/818877106",
+      "transcriptLink": "",
+      "date": "2023-05-09T17:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/a1223c45-b011-44cd-8489-c0a345c7c889.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/90f47423-de42-4317-bad9-441d481dcb15.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/b89c8482-0b97-4bfd-9680-d7bb1c16570c.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "AE5ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "ED9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Zoning, Landmarks and Building Standards",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Zoning",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928576/video/822121664",
+      "transcriptLink": "",
+      "date": "2023-05-09T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/4e33c561-8145-44a6-8c0c-17d51922e38a.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/a41c726b-3abf-481e-9377-b75fbafad85a.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/52de36f3-9250-43c8-b72b-af9fe9bd5518.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "AD5ED725-5905-EE11-8F6D-001DD806E3C0",
+      "status": null,
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "CANCELLATION of Meeting",
+      "bodyAbbreviation": "Finance",
+      "location": "",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-05-08T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/c39cc85f-b069-4f02-a64b-3cf7080b661f.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "A2EA90FB-9811-ED11-82E3-001DD8068077",
+      "status": null,
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "Virtual meeting",
+      "bodyAbbreviation": "City Council",
+      "location": "Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-04-28T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/086589c8-3cf1-441b-8d81-44590a352fb9.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/36abfc69-4165-4fdd-a717-ee7a6fe7a45d.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "0452FF86-2DF4-ED11-A7C6-001DD806AE67",
+      "status": null,
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": null,
+      "bodyAbbreviation": "City Council",
+      "location": "City Hall -- Council Chamber -- Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/6277394/video/818855331",
+      "transcriptLink": "",
+      "date": "2023-04-19T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/91a2e79e-4254-4ffa-8afc-1422b4050d63.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/59a41ec2-8197-471a-8ecf-db50f7eb3c3c.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "80993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "F79FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Ethics and Government Oversight",
+      "comment": "Virtual Meeting and Subject Matter Hearing - No vote on Hearing regarding Interdepartmental Coordination and City Administrative Officer Position",
+      "bodyAbbreviation": "Ethics",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928512/video/818768598",
+      "transcriptLink": "",
+      "date": "2023-04-18T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/f7b45aa8-9478-42be-9812-25273b4cc51a.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/fae8c8eb-4b58-4694-ab0e-c9f3fb5741ac.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/fcd670a7-35bd-4095-8f38-38e2fb3b4db0.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "46993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "ED9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Zoning, Landmarks and Building Standards",
+      "comment": null,
+      "bodyAbbreviation": "Zoning",
+      "location": "City Hall - Council Chamber - Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928576/video/818490017",
+      "transcriptLink": "",
+      "date": "2023-04-18T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/921bec2d-bfdd-481d-ba6a-694cc928003d.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/e4ab124e-41ae-4f26-85d4-966013b5be2d.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/002fae5b-cd24-4ab5-a584-ed78a721eb4e.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/b22d54a3-05e7-4c1d-beac-ec98eedc5bdf.pdf",
+          "fileName": "Addendum to Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/8693b509-006e-4ae3-85ae-2bd1aefee18b.pdf",
+          "fileName": "Deferred Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "85993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "F59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Committees and Rules",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Rules",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928500/video/818508575",
+      "transcriptLink": "",
+      "date": "2023-04-18T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/25abcd72-2460-44cf-8ce3-31f0bac1873b.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/fb2c377a-22b3-4a7b-ba44-79cbf90d0dc3.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/6fd17fab-5177-4cd8-a177-a7cb0ff0297a.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "5C993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "DE9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on License and Consumer Protection",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "License",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928556/video/818416905",
+      "transcriptLink": "",
+      "date": "2023-04-17T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/9f6b9559-c54a-4744-8ecb-6738af6ef891.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/0fc00d8c-f060-43df-aa5f-1aaa5df36ff7.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/10432891-030e-4d7d-a9cf-2b19b25e1a12.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "7A993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": null,
+      "bodyAbbreviation": "Finance",
+      "location": "City Hall - Council Chamber - Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928482/video/817751654",
+      "transcriptLink": "",
+      "date": "2023-04-17T17:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/856c9c8b-6258-47ec-8b93-c8d13f6fcf1f.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/32a66e9d-6fe9-411c-8ff2-bf231c39b679.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/e4a705dd-658b-4290-a624-b404d0018bf3.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/a647e7e9-30c8-4c54-af78-6b2a83f89bfa.pdf",
+          "fileName": "Supplemental Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/ba5bb101-ed4c-4205-9df9-b21c7fb354a5.pdf",
+          "fileName": "Original Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/7a9c7654-5b3f-4446-879f-a782c277f0b3.pdf",
+          "fileName": "First Corrected Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "64993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "D39FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Budget and Government Operations",
+      "comment": null,
+      "bodyAbbreviation": "Budget",
+      "location": "City Hall - Council Chamber - Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8925576/video/817751680",
+      "transcriptLink": "",
+      "date": "2023-04-17T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/a928bf1d-d941-4a87-8b24-93e685acc8eb.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/da1cf402-0f4a-4cc9-a38f-eb6f454d9e11.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/281f8a45-b43d-4099-a73b-f6ae3e361786.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "76993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "E29FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Public Safety",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Public Safety",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928579/video/817413689",
+      "transcriptLink": "",
+      "date": "2023-04-14T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/ba3a2b0c-11ff-4c42-b8dd-fe301f555d98.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/71cc7fcb-3593-42e6-b189-7be668c650a6.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/f786f16f-e1ac-4da8-97d5-68068f513597.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/7aa9b92b-46f7-4201-8bdd-e943cb39f7c1.pdf",
+          "fileName": "Original Summary",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "72993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "F79FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Ethics and Government Oversight",
+      "comment": "CANCELLATION of Virtual Meeting",
+      "bodyAbbreviation": "Ethics",
+      "location": "Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-04-14T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/d0684c07-f1d0-44a9-9ecf-25dd69f6fffb.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/6c806ec7-a6fc-4c49-898f-a793315d551f.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/25252ef6-a786-49b7-bac8-b618faa7f3cf.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/fb63d3d6-0917-407f-b788-51b4329782ac.pdf",
+          "fileName": "First Revised Notice",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "7C993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "FF9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Health and Human Relations",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Health",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928590/video/808074936",
+      "transcriptLink": "",
+      "date": "2023-04-13T19:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/f2bc61f4-6753-4601-9411-1cd5d00be315.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/71f8834e-8c18-4f62-84c8-1a260518dcf1.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/2a2ddc2d-9e33-43a8-87e1-56e5234aa40e.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/d0995527-1620-47c9-8933-cfef24f35cf2.pdf",
+          "fileName": "Original Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "5A993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "E99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Pedestrian and Traffic Safety",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Pedestrian and Traffic Safety",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928552/video/817015361",
+      "transcriptLink": "",
+      "date": "2023-04-13T16:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/e12b88c9-b4a4-4c43-a8fc-094336523f3f.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/28ae10ad-6003-4c70-89ca-085dbe16bbe6.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/5afe8cc3-213b-49da-b57c-f631b968a2b1.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/05ef941c-1b1e-4451-ad22-368f7e39e36e.pdf",
+          "fileName": "Original Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "5E993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "D99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Finance",
+      "comment": "CANCELLATION of Meeting",
+      "bodyAbbreviation": "Finance",
+      "location": "City Hall - Council Chamber - Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-04-13T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/6b6a1c07-4d77-4588-9565-b912a5704309.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/8c565fff-e596-4381-8cd5-ab7af4a22f4e.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "69993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "E09FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Transportation and Public Way",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Transportation",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928551/video/816671277",
+      "transcriptLink": "",
+      "date": "2023-04-12T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/b8f78b14-ac86-492d-8859-cde10a45626f.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/0f4fb027-5dc6-4b10-acc0-c8307d8432c1.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/05398f7e-4e0b-4149-ac93-a20aeb2392aa.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/442fc150-8248-47c3-9100-fd8c2fd6f18f.pdf",
+          "fileName": "Original Agenda",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "7E993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "D59FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Economic, Capital and Technology Development",
+      "comment": "Virtual Meeting and Subject Matter Hearing",
+      "bodyAbbreviation": "Economic",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928495/video/816615981",
+      "transcriptLink": "",
+      "date": "2023-04-11T18:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/b787f947-4e4e-4f20-9713-da70d2b31901.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/69b0ed57-0e60-4f7a-9810-fe1ae907a991.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/81490e01-367b-4bd0-8b03-7d676a4ea0b4.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "74993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "FF9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Health and Human Relations",
+      "comment": "CANCELLATION of Virtual Meeting",
+      "bodyAbbreviation": "Health",
+      "location": "Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-04-11T16:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/bc7c2614-98c8-452b-bc30-1854e1460e54.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/a275a796-0c41-4713-a12d-4369eabfffd9.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "59993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "DB9FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Housing and Real Estate",
+      "comment": null,
+      "bodyAbbreviation": "Housing",
+      "location": "City Hall --  Council Chamber -- Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928563/video/816250443",
+      "transcriptLink": "",
+      "date": "2023-04-11T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/7b3bffb2-2fd0-4e0d-8800-3cc7dbeac815.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/d690005b-aed0-4511-bcd5-93512bf21a16.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/183aa7e1-2051-4a04-97cd-a7fd7202fcda.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "6A993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "03A0C72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Workforce Development",
+      "comment": "Virtual Meeting",
+      "bodyAbbreviation": "Workforce Development",
+      "location": "Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/8928568/video/813268428",
+      "transcriptLink": "",
+      "date": "2023-04-10T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/2ad06b77-1e8f-4938-8f81-cc559c8dbdae.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/f1ea8bb9-4df5-4aaa-af1e-89ca54635b21.pdf",
+          "fileName": "Summary",
+          "attachmentType": "Summary",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/af38dd7b-edbc-40a1-bb98-3948cc17a198.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "66993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "E99FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Pedestrian and Traffic Safety",
+      "comment": "CANCELLATION of Meeting",
+      "bodyAbbreviation": "Pedestrian and Traffic Safety",
+      "location": "Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-04-06T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/9f81e5b1-71d2-468c-b086-2fc7c9646446.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/dd865655-3a63-4dca-8f4b-c0d9252aecdc.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/07164cd7-9a9d-4422-9da7-2e2d0265d130.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "6F993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "F79FC72B-B0D7-EC11-A7B4-001DD804F0C4",
+      "body": "Committee on Ethics and Government Oversight",
+      "comment": "CANCELLATION of Meeting",
+      "bodyAbbreviation": "Ethics",
+      "location": "Chicago, Illinois",
+      "videoLink": null,
+      "transcriptLink": "",
+      "date": "2023-03-31T15:00:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/ad8e4ca4-c21d-46c3-a20d-4d2b4306ec25.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/00cb11c9-2609-4d31-8bd7-b9cb30d06902.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/640ae0af-126b-4cbe-92ad-b4665ed4deff.pdf",
+          "fileName": "Original Notice",
+          "attachmentType": "Other",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    },
+    {
+      "meetingId": "63993324-5905-EE11-8F6D-001DD806EBDB",
+      "status": null,
+      "bodyId": "BAA9B630-573B-EC11-B6E5-001DD804D4DD",
+      "body": "City Council",
+      "comment": "Special Meeting",
+      "bodyAbbreviation": "City Council",
+      "location": "City Hall - Council Chamber - Chicago, Illinois",
+      "videoLink": "https://vimeo.com/showcase/6277394/video/808433491",
+      "transcriptLink": "",
+      "date": "2023-03-30T14:30:00+00:00",
+      "files": [
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/3210a547-9944-4479-8b1b-b620f31b6972.pdf",
+          "fileName": "Agenda",
+          "attachmentType": "Agenda",
+          "sort": null
+        },
+        {
+          "path": "https://occprodstoragev1.blob.core.usgovcloudapi.net/lsmeetingattachmentspublic/0b75426f-180f-4eae-a88b-fb547e27f274.pdf",
+          "fileName": "Notice",
+          "attachmentType": "Notice",
+          "sort": null
+        }
+      ],
+      "agenda": null,
+      "attendance": null
+    }
+  ],
+  "meta": {
+    "skip": 0,
+    "top": 100,
+    "count": 2809,
+    "pages": 29
+  }
+}
